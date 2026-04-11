@@ -6,6 +6,12 @@ This module defines how **Augmented Reality (AR)** functions as a mediational la
 
 ---
 
+## 📄 Main document
+
+👉 [ar_guidelines_framework.md](./ar_guidelines_framework.md)
+
+---
+
 ## 📦 Contents
 
 - AR integration principles  
