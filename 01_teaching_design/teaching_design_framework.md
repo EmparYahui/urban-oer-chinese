@@ -60,6 +60,14 @@ This module generates:
 
 ---
 
+## 🔙 Module navigation
+
+Return to the module interface:
+
+→ [Teaching Design README](./README.md)
+
+---
+
 ## Notes
 
 This module does not contain final learning materials but defines the **instructional architecture** of the OER system.
