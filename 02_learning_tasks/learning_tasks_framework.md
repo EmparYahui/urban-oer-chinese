@@ -148,3 +148,12 @@ This task sequence operationalises the research design by integrating:
 - Multimodality as output strategy  
 - AR as contextual mediation layer  
 - OER principles as design constraint from the outset  
+
+---
+
+## 🔙 Module navigation
+
+Return to the module interface:
+
+→ [Learning tasks](./README.md)
+
