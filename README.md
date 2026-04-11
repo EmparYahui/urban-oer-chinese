@@ -70,6 +70,17 @@ Users (teachers, researchers, or instructional designers) may:
 
 ---
 
+## Quick navigation
+
+- [Teaching design](./01_teaching_design/)
+- [Learning tasks](./02_learning_tasks/)
+- [Assessment](./03_assessment/)
+- [AR guidelines](./04_ar_guidelines/)
+- [Templates](./05_templates/)
+- [Examples](./06_examples/)
+
+---
+
 ## 🧩 Repository structure
 
 - `01_teaching_design/` → Pedagogical framework and session design
