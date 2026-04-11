@@ -10,7 +10,7 @@ It translates the theoretical framework (00_theory) into a structured instructio
 
 ## 📄 Main document
 
-👉 [teaching_design_framework.md](./teaching_design_framework.md)
+👉 [Teaching design framework](./teaching_design_framework.md)
 
 ---
 
