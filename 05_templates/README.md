@@ -30,9 +30,9 @@ This module provides **reusable scaffolds** for designing tasks and artefacts.
 
 ## 🔗 System connections
 
-- Based on → 01 Teaching design  
-- Used in → 02 Learning tasks  
-- Supports → 06 Examples  
+- Based on → [01 Teaching Design](../01_teaching_design/)
+- Used in → [02 Learning Tasks](../02_learning_tasks/)
+- Supports → [06 Examples](../06_examples/)
 
 ---
 
