@@ -10,7 +10,7 @@ Tasks are situated in urban linguistic landscapes and structured for mediation a
 
 ## 📄 Main document
 
-👉 [learning_tasks_framework.md](./learning_tasks_framework.md)
+👉 [Learning tasks framework](./learning_tasks_framework.md)
 
 ---
 
