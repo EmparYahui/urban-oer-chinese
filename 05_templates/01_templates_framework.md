@@ -2,125 +2,124 @@
 
 ## Overview
 
-This module provides reusable templates for implementing, adapting, and extending the Urban Linguistic Landscape OER intervention (Chinese A1–A2).
+This module provides **reusable templates** for implementing, adapting, and extending the **Urban Linguistic Landscape OER intervention** (Chinese A1–A2). The templates are designed to support a wide range of educational roles:
 
-The templates are designed to support:
-- teachers
-- instructional designers
-- researchers
-- open education practitioners
+- Teachers
+- Instructional designers
+- Researchers
+- Open education practitioners
 
-They operationalise the pedagogical model described in this repository, ensuring transferability across languages, contexts, and technological environments.
+They operationalise the pedagogical model described in this repository, ensuring **transferability across languages, contexts**, and **technological environments**.
 
 ---
 
 ## Design philosophy
 
-All templates follow these principles:
+All templates follow these guiding principles:
 
-- **Reusability**: adaptable across languages and educational contexts  
-- **Modularity**: each template functions independently  
-- **Clarity**: structured for beginner-level implementation  
-- **Openness**: designed for open licensing and redistribution  
-- **Mediation-focused**: supporting meaning transformation across languages  
-- **Multimodal-aware**: integrating text, image, and optional media  
-- **AR-compatible**: enabling spatial extension when needed  
+- **Reusability**: Adaptable across languages and educational contexts.
+- **Modularity**: Each template functions independently, allowing for flexible use.
+- **Clarity**: Structured for beginner-level implementation.
+- **Openness**: Designed for open licensing and redistribution under Creative Commons.
+- **Mediation-focused**: Supporting **meaning transformation** across languages.
+- **Multimodal-aware**: Integrating text, images, and optional media.
+- **AR-compatible**: Enabling spatial extensions when needed.
 
 ---
 
-## 1. Urban linguistic landscape task template
+## 1. Urban Linguistic Landscape Task Template
 
 ### Purpose
 To design tasks based on real-world urban environments.
 
 ### Structure
 
-- Task title:
-- Urban context:
-- Linguistic focus:
-- Target CEFR level:
-- Input type (signs, ads, etc.):
-- Student action:
-- Expected output:
-- Mediation focus:
-- Multimodal elements:
-- Optional AR integration:
+- **Task title**:
+- **Urban context**:
+- **Linguistic focus**:
+- **Target CEFR level**:
+- **Input type** (signs, ads, etc.):
+- **Student action**:
+- **Expected output**:
+- **Mediation focus**:
+- **Multimodal elements**:
+- **Optional AR integration**:
 
 ---
 
-## 2. Linguistic mediation template
+## 2. Linguistic Mediation Template
 
 ### Purpose
-To support transformation of meaning across languages.
+To support the transformation of meaning across languages.
 
 ### Structure
 
-- Source material:
-- Target language (Chinese A1–A2):
-- Communicative purpose:
-- Audience type:
-- Mediation strategy (simplification, reformulation, adaptation):
-- Output format:
-- Cultural considerations:
+- **Source material**:
+- **Target language** (Chinese A1–A2):
+- **Communicative purpose**:
+- **Audience type**:
+- **Mediation strategy** (simplification, reformulation, adaptation):
+- **Output format**:
+- **Cultural considerations**:
 
 ---
 
-## 3. Multimodal artefact template
+## 3. Multimodal Artefact Template
 
 ### Purpose
-To guide production of OER-ready learning artefacts.
+To guide the production of **OER-ready** learning artefacts.
 
 ### Structure
 
-- Artefact title:
-- Core message:
-- Text component (Chinese):
-- Visual component:
-- Optional audio/video:
-- Design rationale:
-- Intended audience:
-- Reuse potential:
+- **Artefact title**:
+- **Core message**:
+- **Text component** (Chinese):
+- **Visual component**:
+- **Optional audio/video**:
+- **Design rationale**:
+- **Intended audience**:
+- **Reuse potential**:
 
 ---
 
-## 4. AR / geolocation template
+## 4. AR / Geolocation Template
 
 ### Purpose
 To link artefacts with physical urban space.
 
 ### Structure
 
-- Artefact ID:
-- Location description:
-- Coordinates / map reference (optional):
-- Rationale for location:
-- Expected interaction:
-- Accessibility notes:
-- Platform used:
+- **Artefact ID**:
+- **Location description**:
+- **Coordinates / map reference** (optional):
+- **Rationale for location**:
+- **Expected interaction**:
+- **Accessibility notes**:
+- **Platform used**:
 
 ---
 
-## 5. OER quality checklist template
+## 5. OER Quality Checklist Template
 
 ### Purpose
-To evaluate pedagogical reuse potential.
+To evaluate **pedagogical reuse potential**.
 
 ### Criteria
 
-- Clarity of instruction
-- Linguistic accessibility
-- Multimodal coherence
-- Cultural transparency
-- Adaptability to other contexts
-- Licensing compatibility
-- Pedagogical reusability
+- **Clarity of instruction**
+- **Linguistic accessibility**
+- **Multimodal coherence**
+- **Cultural transparency**
+- **Adaptability to other contexts**
+- **Licensing compatibility**
+- **Pedagogical reusability**
 
 ---
 
-## 6. Reflective learning diary template
+## 6. Reflective Learning Diary Template
 
 ### Purpose
-To capture mediation and learning processes.
+To capture **mediation** and **learning processes**.
 
 ### Prompts
 
@@ -133,45 +132,42 @@ To capture mediation and learning processes.
 
 ---
 
-## Integration with repository
+## Integration with Repository
 
-These templates are designed to be used with:
+These templates are designed to be used with the following modules:
 
-- `01_teaching_design` → planning and structuring instruction  
-- `02_learning_tasks` → implementation of tasks  
-- `03_assessment` → evaluation of outputs  
-- `04_ar_guidelines` → spatial and AR integration  
+- **`01_teaching_design`** → Planning and structuring instruction.
+- **`02_learning_tasks`** → Implementation of tasks.
+- **`03_assessment`** → Evaluation of outputs.
+- **`04_ar_guidelines`** → Spatial and AR integration.
 
 ---
 
-## Key conceptual role
+## Key Conceptual Role
 
-Templates function as:
-
-> structural scaffolds that enable the transformation of situated learning into reusable Open Educational Resources (OER)
+Templates function as **structural scaffolds** that enable the transformation of situated learning into **reusable Open Educational Resources (OER)**.
 
 They operationalise:
 
-- mediation
-- multimodality
-- openness
-- situated urban learning
+- Mediation
+- Multimodality
+- Openness
+- Situated urban learning
 - AR-supported recontextualisation
 
 ---
 
-## Notes for adaptation
+## Notes for Adaptation
 
-- Templates can be simplified or expanded depending on context
-- They are language-independent
-- They can be used without AR integration
-- They are designed for both research replication and classroom implementation
+- Templates can be **simplified or expanded** depending on context.
+- They are **language-independent**.
+- They can be used **without AR integration**.
+- They are designed for both **research replication** and **classroom implementation**.
 
 ---
 
-## 🔙 Module navigation
+## 🔙 Module Navigation
 
 Return to the module interface:
 
 → [Templates](./README.md)
-
