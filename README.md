@@ -282,9 +282,75 @@ Sustainability is understood in three dimensions:
 
 ---
 
+## 🧭 System governance and conceptual closure
+
+This repository should be understood as an integrated pedagogical-research system rather than a collection of teaching materials.
+
+It operates at the intersection of:
+
+- instructional design (task-based learning)
+- open educational practices (OEP/OER)
+- multimodal and situated language learning
+- technological mediation (including AR)
+- empirical educational research
+
+---
+
+### 🧠 Governance principle
+
+The system is governed by a single core principle:
+
+> Learning design, learning activity, and research evidence are co-constructed within a unified open framework.
+
+This implies that:
+
+- teaching design shapes learning tasks
+- learning tasks generate analyzable artefacts
+- artefacts function simultaneously as learning outcomes and research data
+- openness structures all phases of the process
+
+---
+
+### 🔁 System identity
+
+The repository is not:
+
+- a static teaching resource bank  
+- a linear course package  
+- a collection of independent modules  
+
+It is:
+
+- a **cyclical learning-production system**
+- a **research-informed pedagogical architecture**
+- a **living OER ecosystem**
+
+---
+
+### 📌 Final conceptual statement
+
+Urban linguistic landscapes, multimodal production, mediation, and augmented reality are not treated as separate components.
+
+They function as a single integrated system in which:
+
+- the city becomes a learning environment  
+- tasks become design instruments  
+- learner outputs become reusable knowledge objects  
+- openness becomes the structuring logic of the entire system  
+
+---
+
+### 🧩 End note
+
+This repository is designed to remain open, extensible, and adaptable, supporting continuous pedagogical innovation and research reuse across contexts.
+
+---
+
 ### 🧠 Design implication
 
 The repository is not a finished product but a **continuously evolving pedagogical infrastructure**, where each iteration contributes to its refinement as an open system.
+
+---
 
 ### 🌐 Context-dependent components
 
@@ -313,6 +379,9 @@ To adapt this model to other contexts, users should:
 The system is not language-specific but **structure-specific**:
 
 It defines a replicable pedagogical architecture in which linguistic content is interchangeable, but the learning logic remains stable.
+
+---
+
 ### 🔄 Integrative principle
 
 All research questions operate across the entire system:
@@ -335,6 +404,9 @@ This workflow is not linear but iterative:
 - artefacts become input for new learning cycles  
 
 The system is therefore cyclical, adaptive, and open-ended.
+
+---
+
 ### 🔄 Key distinction principle
 
 - Design defines what should be done  
@@ -343,6 +415,9 @@ The system is therefore cyclical, adaptive, and open-ended.
 - AR defines where meaning is extended  
 - Templates enable reuse  
 - Examples demonstrate real outcomes  
+
+---
+
 ### 🔄 Cross-layer integration
 
 All layers are interdependent:
@@ -352,6 +427,8 @@ All layers are interdependent:
 - Evidence feeds back into design refinement  
 
 This structure reflects an iterative open pedagogical system rather than a linear instructional model.
+
+---
 
 ## How to use this repository
 
