@@ -44,3 +44,11 @@ Augmented Reality is used as a spatial and interpretive extension layer, not as 
 - Pedagogical rules for task creation
 - Structural constraints for learning design
 - Alignment criteria for all downstream modules
+
+---
+
+## 🔙 Module navigation
+
+Return to the module interface:
+
+→ [Teaching Design README](./README.md)
