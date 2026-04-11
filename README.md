@@ -197,6 +197,49 @@ Selected artefacts are published under open licences for reuse and adaptation.
 
 ---
 
+## 🎯 Alignment with research questions (RQ1–RQ4)
+
+Each stage of the pedagogical workflow directly operationalises the study’s research questions:
+
+### Step 1 — Urban input
+→ RQ1: How can urban task-based intervention support OER co-creation?
+This stage establishes the contextual foundation for situated learning in linguistic landscapes.
+
+### Step 2 — Mediation and interpretation
+→ RQ2: How does mediation shape meaning-making and vocabulary development?
+Learners negotiate meaning across languages and contexts through interpretive processes.
+
+### Step 3 — Multimodal production
+→ RQ3: How do multimodality and hybrid writing influence L2 production?
+Learners transform mediated input into structured multimodal artefacts.
+
+### Step 4 — AR contextualisation
+→ RQ1 & RQ2
+AR acts as a mediational layer linking physical space and digital representation, reinforcing situated meaning-making.
+
+### Step 5 — Evaluation and reflection
+→ RQ4: How can artefacts be characterised in terms of OER quality?
+Artefacts are assessed for linguistic quality, multimodal coherence, and reusability.
+
+### Step 6 — Open publication
+→ RQ1 & RQ4
+Learner outputs are formalised as OER, enabling reuse, adaptation, and circulation of knowledge.
+
+---
+
+### 🔄 Integrative principle
+
+All research questions operate across the entire system:
+
+- RQ1 → structural condition of the intervention  
+- RQ2 → mediational and interpretive processes  
+- RQ3 → multimodal production outcomes  
+- RQ4 → evaluative and openness dimension  
+
+This ensures full alignment between research design, pedagogical implementation, and repository architecture.
+
+---
+
 ### 🔁 System dynamic
 
 This workflow is not linear but iterative:
