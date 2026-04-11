@@ -231,6 +231,8 @@ Learner outputs are formalised as OER, enabling reuse, adaptation, and circulati
 
 Although this repository is implemented in beginner-level Chinese (A1–A2), its pedagogical model is designed to be transferable across languages, contexts, and educational levels.
 
+---
+
 ### 🔁 Core transferable components
 
 The following elements are language-independent and can be adapted to other contexts:
@@ -243,6 +245,46 @@ The following elements are language-independent and can be adapted to other cont
 - OER-oriented assessment frameworks
 
 ---
+
+## ♻️ Quality and sustainability layer
+
+This repository is designed as a living Open Educational Resource (OER) system that evolves through reuse, adaptation, and iterative refinement.
+
+### 🧪 Quality assurance principles
+
+Quality is ensured through:
+
+- alignment between tasks, mediation, and assessment
+- explicit OER evaluation criteria (clarity, reusability, adaptability)
+- triangulation of artefacts, learner processes, and observational data
+- rubric-based evaluation of multimodal outputs
+
+---
+
+### 🔄 System evolution
+
+The repository is not static. It evolves through:
+
+- pedagogical reuse in different contexts
+- adaptation to new languages and proficiency levels
+- refinement of tasks based on learner feedback
+- integration of new AR tools and platforms
+
+---
+
+### 🌱 Sustainability model
+
+Sustainability is understood in three dimensions:
+
+- Pedagogical sustainability → adaptability of task design across contexts
+- Technological sustainability → compatibility with evolving digital tools
+- Knowledge sustainability → long-term accessibility and reuse of artefacts
+
+---
+
+### 🧠 Design implication
+
+The repository is not a finished product but a **continuously evolving pedagogical infrastructure**, where each iteration contributes to its refinement as an open system.
 
 ### 🌐 Context-dependent components
 
