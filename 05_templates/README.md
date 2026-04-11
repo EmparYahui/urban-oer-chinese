@@ -8,7 +8,7 @@ This module provides **reusable scaffolds** for designing tasks and artefacts.
 
 ## 📄 Main document
 
-👉 [templates_framework.md](./templates_framework.md)
+👉 [Templates framework](./templates_framework.md)
 
 ---
 
