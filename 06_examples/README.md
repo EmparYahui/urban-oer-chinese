@@ -40,4 +40,4 @@ This module presents **learner-generated artefacts** and model outputs.
 
 Start here if you want to see **what the system produces in practice**.
 
-→ Loop back to: `01_teaching_design/` (cyclical system)
+→ Loop back to: [01 Teaching design](../01_teaching_design/)
