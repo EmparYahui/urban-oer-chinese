@@ -15,6 +15,11 @@ This module provides the **evaluation framework** for analysing learning outcome
 
 ---
 
+## 📄 Main document
+
+👉 [assessment_framework.md](./assessment_framework.md)
+---
+
 ## 🚀 How to use
 
 - Teachers → assess learner outputs  
