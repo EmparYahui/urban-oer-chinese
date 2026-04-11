@@ -8,18 +8,18 @@ Tasks are situated in urban linguistic landscapes and structured for mediation a
 
 ---
 
+## 📄 Main document
+
+👉 [learning_tasks_framework.md](./learning_tasks_framework.md)
+
+---
+
 ## 📦 Contents
 
 - task descriptions  
 - activity sequences  
 - urban exploration tasks  
 - multimodal production tasks  
-
----
-
-## 📄 Main document
-
-👉 [learning_tasks_framework.md](./learning_tasks_framework.md)
 
 ---
 
