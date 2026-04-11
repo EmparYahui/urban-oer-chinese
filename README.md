@@ -81,6 +81,38 @@ Each research dimension is explicitly implemented across the repository structur
 
 ---
 
+## 🧭 Entry pathways
+
+Different users may engage with this repository through multiple entry points depending on their goals:
+
+### 👩‍🏫 For teachers and instructional designers
+Start here:
+- 01 Teaching design → pedagogical structure
+- 02 Learning tasks → classroom implementation
+- 05 Templates → adaptation and reuse
+
+### 🔬 For researchers
+Start here:
+- 03 Assessment → analytical framework and rubrics
+- 06 Examples → learner artefacts and empirical evidence
+
+### 📱 For AR practitioners and digital designers
+Start here:
+- 04 AR guidelines → spatial mediation framework
+- 02 Learning tasks → implementation of AR-linked activities
+
+### 📦 For full course implementation
+Follow the complete sequence:
+01 → 02 → 03 → 04 → 05 → 06
+
+### 🔁 For adaptation to other languages or contexts
+Focus on:
+- 01 Teaching design
+- 05 Templates
+- 02 Learning tasks
+
+---
+
 ## How to use this repository
 
 This repository is structured as a modular Open Educational Resources (OER) system for task-based language learning in urban contexts.
