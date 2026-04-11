@@ -8,7 +8,7 @@ This module provides the **evaluation framework** for analysing learning outcome
 
 ## 📄 Main document
 
-👉 [assessment_framework.md](./assessment_framework.md)
+👉 [Assessment framework](./assessment_framework.md)
 
 ---
 
