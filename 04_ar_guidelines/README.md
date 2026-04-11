@@ -40,4 +40,4 @@ This module defines how **Augmented Reality (AR)** functions as a mediational la
 
 Start here if you want to understand **how digital and physical spaces are connected**.
 
-→ Next: `05_templates/`
+→ Next: [05 Templates](../05_templates/)
