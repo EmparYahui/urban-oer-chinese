@@ -115,6 +115,16 @@ This allows reuse, adaptation, and redistribution with appropriate attribution.
 
 ---
 
+## Recommended citation
+
+If you use or adapt this repository, please cite it as follows:
+
+Empar Yahui. (2026). *Urban Linguistic Landscape OER for Task-Based Chinese Learning (A1–A2)*. GitHub repository. https://github.com/EmparYahui/urban-oer-chinese
+
+This repository is associated with a research-based study on open, multimodal, and urban task-based language learning.
+
+---
+
 ## 📍 Citation
 
 If you use or adapt this repository, please cite the associated research article (forthcoming or submitted to EUROCALL-related publication venue).
