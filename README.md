@@ -6,6 +6,20 @@ It is part of an empirical study exploring how urban linguistic landscapes, mult
 
 ---
 
+## 🧩 System description
+
+This repository constitutes a **research-informed pedagogical system** rather than a static collection of teaching materials.
+
+It integrates three interconnected layers:
+
+- **Pedagogical design layer** → conceptual framework and instructional planning  
+- **Implementation layer** → task sequences and learning activities in urban contexts  
+- **Analytical layer** → assessment instruments and empirical artefacts  
+
+Together, these layers operationalise an open educational model in which learning design, learner production, and evaluation are structurally interconnected.
+
+---
+
 ## 📌 Research context
 
 This OER is linked to a mixed-methods case study investigating how task-based learning in urban environments can support the co-creation of reusable educational resources.
