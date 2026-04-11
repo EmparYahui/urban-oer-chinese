@@ -146,3 +146,12 @@ This reframes language learning as a process of open knowledge production within
 - They can be simplified for lower proficiency levels
 - They can be used as templates for new tasks
 - They can be integrated into teacher training
+
+---
+
+## 🔙 Module navigation
+
+Return to the module interface:
+
+→ [Examples](./README.md)
+
