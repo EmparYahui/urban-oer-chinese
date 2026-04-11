@@ -227,6 +227,50 @@ Learner outputs are formalised as OER, enabling reuse, adaptation, and circulati
 
 ---
 
+## 🌍 Design transferability principles
+
+Although this repository is implemented in beginner-level Chinese (A1–A2), its pedagogical model is designed to be transferable across languages, contexts, and educational levels.
+
+### 🔁 Core transferable components
+
+The following elements are language-independent and can be adapted to other contexts:
+
+- Urban Linguistic Landscape (ULL) as learning environment
+- Task-Based Language Teaching (TBLT) structure
+- Mediation-based learning processes
+- Multimodal production workflows
+- AR as a mediational and spatialisation tool
+- OER-oriented assessment frameworks
+
+---
+
+### 🌐 Context-dependent components
+
+The following elements are specific to the current implementation:
+
+- Target language: Chinese (A1–A2 CEFR)
+- Cultural and linguistic input derived from Chinese signage and urban texts
+- Proficiency level scaffolding
+- Institutional course structure (university setting in Spain)
+
+---
+
+### 🧭 Adaptation guidelines
+
+To adapt this model to other contexts, users should:
+
+- Replace target language input while preserving task structure
+- Recontextualise urban materials according to local linguistic landscapes
+- Adjust mediation complexity to learner proficiency level
+- Modify AR implementation according to available tools and infrastructure
+
+---
+
+### 🧠 Design principle
+
+The system is not language-specific but **structure-specific**:
+
+It defines a replicable pedagogical architecture in which linguistic content is interchangeable, but the learning logic remains stable.
 ### 🔄 Integrative principle
 
 All research questions operate across the entire system:
