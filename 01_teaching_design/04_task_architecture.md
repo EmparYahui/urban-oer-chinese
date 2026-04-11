@@ -54,3 +54,11 @@ Focus: spatial contextualisation of meaning.
 ## 📌 Design rule
 
 No task is complete unless it produces a traceable and assessable artefact.
+
+---
+
+## 🔙 Module navigation
+
+Return to the module interface:
+
+→ [Teaching Design README](./README.md)
