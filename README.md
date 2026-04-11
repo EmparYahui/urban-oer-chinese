@@ -48,6 +48,28 @@ In this model:
 
 ---
 
+## How to use this repository
+
+This repository is structured as a modular Open Educational Resources (OER) system for task-based language learning in urban contexts.
+
+Each folder corresponds to a functional component of the instructional design:
+
+- 01_teaching_design → pedagogical framework and session planning  
+- 02_learning_tasks → task sequences for urban linguistic landscape activities  
+- 03_assessment → evaluation rubrics for mediation, multimodality, and OER quality  
+- 04_ar_guidelines → augmented reality integration framework  
+- 05_templates → reusable artefact and task templates  
+- 06_examples → anonymised learner outputs and reference materials  
+
+Users (teachers, researchers, or instructional designers) may:
+
+- adapt the full sequence as a complete course module  
+- reuse individual components independently  
+- modify templates for other languages or contexts  
+- integrate AR workflows into their own pedagogical designs
+
+---
+
 ## 🧩 Repository structure
 
 - `01_teaching_design/` → Pedagogical framework and session design
