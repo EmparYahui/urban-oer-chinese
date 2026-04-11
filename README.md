@@ -137,6 +137,44 @@ This layer documents outcomes, assessment, and empirical artefacts.
 
 ---
 
+## 🔍 Functional boundaries between modules
+
+To ensure clarity and avoid conceptual overlap, each module in the repository has a distinct primary function:
+
+### 01 Teaching design
+Defines the pedagogical and instructional architecture of the intervention.
+→ Focus: planning, sequencing, learning objectives
+
+### 02 Learning tasks
+Operationalises the pedagogical design into concrete learning activities.
+→ Focus: task execution in urban linguistic contexts
+
+### 03 Assessment
+Provides analytic instruments for evaluating learning outcomes and artefacts.
+→ Focus: rubrics, mediation analysis, OER quality
+
+### 04 AR guidelines
+Defines the role of augmented reality as a mediational infrastructure.
+→ Focus: spatial linkage, contextualisation, AR integration principles
+
+### 05 Templates
+Provides reusable scaffolds for designing and adapting tasks and artefacts.
+→ Focus: replication, adaptation, and reuse
+
+### 06 Examples
+Presents instantiated learner outputs and model artefacts.
+→ Focus: empirical illustration and evidence of implementation
+
+---
+
+### 🔄 Key distinction principle
+
+- Design defines what should be done  
+- Tasks operationalise how it is done  
+- Assessment evaluates what is produced  
+- AR defines where meaning is extended  
+- Templates enable reuse  
+- Examples demonstrate real outcomes  
 ### 🔄 Cross-layer integration
 
 All layers are interdependent:
