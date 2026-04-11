@@ -30,10 +30,10 @@ This module presents **learner-generated artefacts** and model outputs.
 
 ## 🔗 System connections
 
-- Generated through → 02 Learning tasks  
-- Evaluated in → 03 Assessment  
-- Structured by → 01 Teaching design  
-
+- Generated through → [02 Learning Tasks](../02_learning_tasks/)
+- Evaluated in → [03 Assessment](../03_assessment/)
+- Structured by → [01 Teaching Design](../01_teaching_design/)
+  
 ---
 
 ## 🧭 Navigation
