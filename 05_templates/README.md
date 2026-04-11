@@ -6,6 +6,12 @@ This module provides **reusable scaffolds** for designing tasks and artefacts.
 
 ---
 
+## 📄 Main document
+
+👉 [templates_framework.md](./templates_framework.md)
+
+---
+
 ## 📦 Contents
 
 - task templates  
