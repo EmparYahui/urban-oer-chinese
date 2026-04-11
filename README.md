@@ -167,6 +167,45 @@ Presents instantiated learner outputs and model artefacts.
 
 ---
 
+## 🔄 Pedagogical workflow
+
+The repository implements a cyclical learning process in which urban experience is transformed into reusable educational resources.
+
+### Step 1 — Urban input
+Learners engage with real-world linguistic landscapes in their environment.
+→ Observation, selection, documentation
+
+### Step 2 — Mediation and interpretation
+Learners interpret and reformulate urban linguistic input across languages and contexts.
+→ Linguistic and intercultural mediation
+
+### Step 3 — Multimodal production
+Learners transform interpreted content into structured multimodal artefacts.
+→ Text, image, and optional audio/video integration
+
+### Step 4 — Contextual extension via AR
+Artefacts are linked to physical spaces using augmented reality tools.
+→ Spatialisation of meaning and situated learning
+
+### Step 5 — Evaluation and reflection
+Artefacts are assessed using linguistic and OER-oriented criteria.
+→ Mediation quality, multimodality, linguistic competence, reusability
+
+### Step 6 — Open release as OER
+Selected artefacts are published under open licences for reuse and adaptation.
+→ Knowledge circulation and pedagogical reuse
+
+---
+
+### 🔁 System dynamic
+
+This workflow is not linear but iterative:
+
+- outputs from Step 6 inform future task design  
+- mediation practices evolve through reflection  
+- artefacts become input for new learning cycles  
+
+The system is therefore cyclical, adaptive, and open-ended.
 ### 🔄 Key distinction principle
 
 - Design defines what should be done  
