@@ -40,4 +40,4 @@ This module provides **reusable scaffolds** for designing tasks and artefacts.
 
 Start here if you want to **reuse or adapt the system**.
 
-→ Next: `06_examples/`
+→ Next: [06 Examples](../06_examples/)
