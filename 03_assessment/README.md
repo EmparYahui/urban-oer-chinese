@@ -6,18 +6,18 @@ This module provides the **evaluation framework** for analysing learning outcome
 
 ---
 
+## 📄 Main document
+
+👉 [assessment_framework.md](./assessment_framework.md)
+
+---
+
 ## 📦 Contents
 
 - assessment rubrics  
 - mediation analysis criteria  
 - multimodal evaluation  
 - OER quality indicators  
-
----
-
-## 📄 Main document
-
-👉 [assessment_framework.md](./assessment_framework.md)
 
 ---
 
