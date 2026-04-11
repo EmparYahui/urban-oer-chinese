@@ -31,9 +31,9 @@ This module provides the **evaluation framework** for analysing learning outcome
 
 ## 🔗 System connections
 
-- Evaluates outputs from → 02 Learning tasks  
-- Applied to → 06 Examples  
-- Informed by → 00 Theory  
+- Evaluates → [02 Learning Tasks](../02_learning_tasks/)
+- Applied to → [06 Examples](../06_examples/)
+- Informed by → [00 Theory](../00_theory/)
 
 ---
 
