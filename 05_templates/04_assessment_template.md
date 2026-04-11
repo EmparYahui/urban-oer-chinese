@@ -24,7 +24,7 @@ This template ensures standardized assessment practices, aligned with the pedago
 
 ---
 
-## Rúbricas (Rubrics)
+## Rubrics
 
 For a comprehensive evaluation, refer to the following rubrics, which assess the key dimensions of multimodal learner artefacts:  
 - **Linguistic Clarity**
