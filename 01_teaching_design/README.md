@@ -1,4 +1,4 @@
-# 01 Teaching Design — Urban Linguistic Landscape OER
+# Teaching Design — Urban Linguistic Landscape OER
 
 ## Overview
 
