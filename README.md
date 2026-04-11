@@ -62,6 +62,25 @@ In this model:
 
 ---
 
+## 🔗 Research-to-repository traceability
+
+This repository operationalises the research design presented in the associated study.
+
+Each research dimension is explicitly implemented across the repository structure:
+
+| Research dimension | Repository implementation |
+|--------------------|--------------------------|
+| Urban Linguistic Landscapes (ULL) | 02 Learning tasks, 06 Examples |
+| Task-Based Language Teaching (TBLT) | 01 Teaching design, 02 Learning tasks |
+| Linguistic mediation | 02 Learning tasks, 03 Assessment, 06 Examples |
+| Multimodal production | 02 Learning tasks, 03 Assessment, 06 Examples |
+| Augmented Reality (AR) | 04 AR guidelines, 02 Learning tasks |
+| Open Educational Resources (OER) | 01–06 (entire system architecture) |
+| Learner-generated artefacts | 06 Examples, 03 Assessment |
+| Evaluation of OER quality | 03 Assessment |
+
+---
+
 ## How to use this repository
 
 This repository is structured as a modular Open Educational Resources (OER) system for task-based language learning in urban contexts.
