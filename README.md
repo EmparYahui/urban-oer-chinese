@@ -113,6 +113,40 @@ Focus on:
 
 ---
 
+## 🧱 System layers
+
+The repository is organised into three interconnected conceptual layers:
+
+### 🧠 1. Design layer
+This layer defines the pedagogical and conceptual structure of the intervention.
+
+- 01 Teaching design
+- 04 AR guidelines
+- 05 Templates
+
+### ⚙️ 2. Implementation layer
+This layer contains the operational learning activities and task sequences.
+
+- 02 Learning tasks
+
+### 📊 3. Evidence and evaluation layer
+This layer documents outcomes, assessment, and empirical artefacts.
+
+- 03 Assessment
+- 06 Examples
+
+---
+
+### 🔄 Cross-layer integration
+
+All layers are interdependent:
+
+- Design informs implementation  
+- Implementation generates evidence  
+- Evidence feeds back into design refinement  
+
+This structure reflects an iterative open pedagogical system rather than a linear instructional model.
+
 ## How to use this repository
 
 This repository is structured as a modular Open Educational Resources (OER) system for task-based language learning in urban contexts.
