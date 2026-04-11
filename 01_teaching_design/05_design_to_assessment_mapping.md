@@ -49,3 +49,11 @@ This module acts as a bridge between:
 - 03 Assessment
 
 ensuring structural coherence across the system.
+
+---
+
+## 🔙 Module navigation
+
+Return to the module interface:
+
+→ [Teaching Design README](./README.md)
