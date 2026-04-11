@@ -6,6 +6,12 @@ This module presents **learner-generated artefacts** and model outputs.
 
 ---
 
+## 📄 Main document
+
+👉 [examples_framework.md](./examples_framework.md)
+
+---
+
 ## 📦 Contents
 
 - anonymised learner artefacts  
