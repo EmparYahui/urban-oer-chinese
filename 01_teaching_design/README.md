@@ -43,4 +43,4 @@ It translates the theoretical framework (00_theory) into a structured instructio
 
 Start here if you want to understand **how the system is structured pedagogically**.
 
-→ Next: `02_learning_tasks/`
+→ Next: [02 Learning Tasks](../02_learning_tasks/)
