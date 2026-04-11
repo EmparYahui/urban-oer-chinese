@@ -33,10 +33,10 @@ Tasks are situated in urban linguistic landscapes and structured for mediation a
 
 ## 🔗 System connections
 
-- Designed in → 01 Teaching design  
-- Produces artefacts for → 06 Examples  
-- Evaluated in → 03 Assessment  
-- Extended through → 04 AR guidelines  
+- Designed in → [01 Teaching Design](../01_teaching_design/)
+- Evaluated in → [03 Assessment](../03_assessment/)
+- Extended through → [04 AR Guidelines](../04_ar_guidelines/)
+- Generates outputs for → [06 Examples](../06_examples/)
 
 ---
 
