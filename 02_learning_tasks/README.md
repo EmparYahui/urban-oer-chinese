@@ -17,6 +17,12 @@ Tasks are situated in urban linguistic landscapes and structured for mediation a
 
 ---
 
+## 📄 Main document
+
+👉 [learning_tasks_framework.md](./learning_tasks_framework.md)
+
+---
+
 ## 🚀 How to use
 
 - Teachers → implement tasks in class  
