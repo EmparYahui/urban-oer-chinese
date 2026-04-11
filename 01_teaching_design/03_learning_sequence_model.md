@@ -40,3 +40,11 @@ Selected outputs are published as Open Educational Resources.
 The sequence is cyclical, not linear:
 
 > Outputs from Phase 6 can re-enter Phase 1 as new input data.
+
+---
+
+## 🔙 Module navigation
+
+Return to the module interface:
+
+→ [Teaching Design README](./README.md)
