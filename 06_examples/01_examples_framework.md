@@ -1,4 +1,4 @@
-# 06 Examples — Learner Outputs and Model Artefacts
+# 01 Examples — Learner Outputs and Model Artefacts
 
 ## Overview
 
