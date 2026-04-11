@@ -33,9 +33,9 @@ It translates the theoretical framework (00_theory) into a structured instructio
 
 ## 🔗 System connections
 
-- Based on → 00 Theory  
-- Implemented in → 02 Learning tasks  
-- Evaluated through → 03 Assessment  
+- Based on → [00 Theory](../00_theory/)
+- Implemented in → [02 Learning Tasks](../02_learning_tasks/)
+- Evaluated in → [03 Assessment](../03_assessment/)
 
 ---
 
