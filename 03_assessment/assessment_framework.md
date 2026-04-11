@@ -141,3 +141,12 @@ It is evaluated in terms of:
 - It is designed to be adaptable to other languages and contexts
 - It can be applied at task level or final artefact level
 - Assessment should be combined with qualitative interpretation for research purposes
+
+---
+
+## 🔙 Module navigation
+
+Return to the module interface:
+
+→ [Assessment](./README.md)
+
