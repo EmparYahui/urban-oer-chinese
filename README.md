@@ -1,29 +1,105 @@
-# Urban Linguistic Landscape OER for Chinese (A1–A2)
+# Urban Linguistic Landscape OER for Task-Based Chinese Learning (A1–A2)
 
-This repository contains Open Educational Resources (OER) for task-based language learning in beginner Chinese (A1–A2 CEFR level).
+This repository accompanies a research-based Open Educational Resources (OER) project focused on urban, task-based language learning in beginner Chinese (A1–A2 CEFR level).
 
-The materials are based on an urban linguistic landscape approach combined with multimodal production and open pedagogy principles.
+It is part of an empirical study exploring how urban linguistic landscapes, multimodal production, and augmented reality (AR) can be integrated into open pedagogical designs for language education.
 
-## Purpose
+---
 
-To provide a reusable and adaptable instructional module that integrates:
-- Urban language learning environments
-- Multimodal student production
-- Task-based language teaching (TBLT)
-- Open Educational Resources (OER)
+## 📌 Research context
 
-## Target learners
+This OER is linked to a mixed-methods case study investigating how task-based learning in urban environments can support the co-creation of reusable educational resources.
 
-University-level beginner learners of Chinese (A1–A2).
+The study explores the intersection of:
 
-## Structure (work in progress)
+- Urban Linguistic Landscapes (ULL)
+- Task-Based Language Teaching (TBLT)
+- Multimodal learning and hybrid writing
+- Linguistic mediation in L2 development
+- Open Educational Resources (OER) and open pedagogy
+- Augmented Reality (AR) as a mediational layer
 
-- Teaching design
-- Learning tasks
-- Assessment rubrics
-- AR integration guidelines
-- Templates and examples
+---
 
-## License
+## 🎯 Purpose of this repository
 
-This project will be released under an open license (CC BY-SA recommended).
+This repository provides:
+
+- A structured pedagogical model for urban task-based language learning
+- Reusable teaching designs and task sequences
+- Assessment rubrics for linguistic and OER quality
+- Guidelines for AR integration in situated learning
+- Templates for multimodal artefact creation
+- Anonymised examples of learner-generated outputs
+
+---
+
+## 🧠 Conceptual contribution
+
+The project conceptualises OER not as end products, but as a **design principle embedded across the entire learning process**.
+
+In this model:
+
+- Tasks are designed as potentially reusable artefacts from the outset
+- Learner outputs are treated as candidates for educational reuse
+- Openness operates as a structuring principle of instructional design
+- Urban environments function as semiotic and pedagogical spaces
+- AR acts as a contextual mediational layer between digital and physical space
+
+---
+
+## 🧩 Repository structure
+
+- `01_teaching_design/` → Pedagogical framework and session design
+- `02_learning_tasks/` → Task sequences for urban learning
+- `03_assessment/` → Rubrics for mediation, multimodality, and OER quality
+- `04_ar_guidelines/` → AR integration framework
+- `05_templates/` → Reusable formats for artefact production
+- `06_examples/` → Anonymised learner outputs
+
+---
+
+## 🧪 Methodological note
+
+The materials in this repository were developed as part of a mixed-methods case study involving:
+
+- Multimodal artefact analysis
+- Learning diaries
+- Classroom observation
+- Rubric-based evaluation of OER potential
+
+The dataset consists of learner-generated artefacts produced under an open license (CC BY-SA 4.0).
+
+---
+
+## 🔓 Licensing
+
+Unless otherwise specified, all materials are released under:
+
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+This allows reuse, adaptation, and redistribution with appropriate attribution.
+
+---
+
+## 📍 Citation
+
+If you use or adapt this repository, please cite the associated research article (forthcoming or submitted to EUROCALL-related publication venue).
+
+---
+
+## 🌐 Educational positioning
+
+This project contributes to research in:
+
+- Technology-enhanced language learning (TELL)
+- Open Educational Practices (OEP)
+- Task-based and experiential language pedagogy
+- Multimodal and situated learning design
+- AR-enhanced language education
+
+---
+
+## 📝 Note
+
+This repository is a living OER system. It is designed to evolve through reuse, adaptation, and pedagogical iteration across different educational contexts.
