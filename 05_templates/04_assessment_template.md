@@ -13,7 +13,7 @@ This template provides a structured format for designing assessments aligned wit
 | **Assessment title**       | Provide a title for the assessment.                                                                  |
 | **Objective**              | Define the purpose of the assessment (e.g., evaluating linguistic competence, mediation skills).       |
 | **Assessment dimensions**  | **Linguistic clarity**: Evaluate linguistic accuracy (grammar, vocabulary).<br>**Mediation quality**: Assess the adaptation and transformation of meaning.<br>**Multimodal production**: Evaluate coherence and integration of text, images, and audio. |
-| **Grading rubric**         | Link to the **rubrics** for each dimension.<br>**Linguistic clarity**: [See rubric](../03_assessment/rubrics_multimodal.md)<br>**Mediation quality**: [See rubric](../03_assessment/rubrics_multimodal.md)<br>**Multimodal production**: [See rubric](../03_assessment/rubrics_multimodal.md) |
+| **Grading rubric**         | Link to the **rubrics** for each dimension.<br>**Linguistic clarity**: [See rubric](../03_assessment/02_rubrics_multimodal.md)<br>**Mediation quality**: [See rubric](../03_assessment/02_rubrics_multimodal.md)<br>**Multimodal production**: [See rubric](../03_assessment/02_rubrics_multimodal.md) |
 | **Feedback criteria**      | Provide feedback for each dimension, focusing on strengths and areas for improvement.               |
 
 ---
