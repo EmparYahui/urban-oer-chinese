@@ -166,3 +166,12 @@ They operationalise:
 - They are language-independent
 - They can be used without AR integration
 - They are designed for both research replication and classroom implementation
+
+---
+
+## 🔙 Module navigation
+
+Return to the module interface:
+
+→ [Templates](./README.md)
+
