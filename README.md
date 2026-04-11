@@ -1,148 +1,137 @@
-# 06 Examples — Learner Outputs and Model Artefacts
+# Urban Linguistic Landscape OER for Task-Based Chinese Learning (A1–A2)
 
-## Overview
+This repository accompanies a research-based Open Educational Resources (OER) project focused on urban, task-based language learning in beginner Chinese (A1–A2 CEFR level).
 
-This module provides representative examples of learner-generated artefacts produced within the Urban Linguistic Landscape OER intervention (Chinese A1–A2).
-
-The examples illustrate how mediation, multimodal production, and AR-based recontextualisation operate in practice.
-
-They serve as:
-- reference models for teachers
-- analytical samples for researchers
-- reusable artefacts for open education contexts
+It is part of an empirical study exploring how urban linguistic landscapes, multimodal production, and augmented reality (AR) can be integrated into open pedagogical designs for language education.
 
 ---
 
-## Purpose
+## 📌 Research context
 
-The examples demonstrate:
+This OER is linked to a mixed-methods case study investigating how task-based learning in urban environments can support the co-creation of reusable educational resources.
 
-- how urban linguistic input is transformed into L2 production
-- how mediation operates across languages and contexts
-- how multimodal composition supports meaning-making
-- how artefacts can function as Open Educational Resources (OER)
-- how AR extends learning into spatial environments
+The study explores the intersection of:
 
----
-
-## Example 1 — Urban sign mediation artefact
-
-### Description
-A student selects a shop sign from the urban environment and transforms it into a simplified Chinese learning resource.
-
-### Components
-- Photograph of urban sign
-- Short Chinese description (A1–A2 level)
-- Bilingual mediation note (L1 → Chinese)
-- Cultural interpretation
-
-### Pedagogical focus
-- linguistic mediation
-- vocabulary acquisition
-- cultural contextualisation
-
-### OER potential
-High — adaptable for vocabulary teaching and intercultural awareness tasks
+- Urban Linguistic Landscapes (ULL)
+- Task-Based Language Teaching (TBLT)
+- Multimodal learning and hybrid writing
+- Linguistic mediation in L2 development
+- Open Educational Resources (OER) and open pedagogy
+- Augmented Reality (AR) as a mediational layer
 
 ---
 
-## Example 2 — Multimodal infographic artefact
+## 🎯 Purpose of this repository
 
-### Description
-A learner creates a digital infographic combining image and Chinese text based on an urban advertisement.
+This repository provides:
 
-### Components
-- Edited image
-- Chinese captions
-- Visual highlighting of key vocabulary
-- Optional translation notes
-
-### Pedagogical focus
-- multimodal composition
-- hybrid writing
-- lexical reinforcement
-
-### OER potential
-High — reusable as teaching material for beginner Chinese learners
+- A structured pedagogical model for urban task-based language learning
+- Reusable teaching designs and task sequences
+- Assessment rubrics for linguistic and OER quality
+- Guidelines for AR integration in situated learning
+- Templates for multimodal artefact creation
+- Anonymised examples of learner-generated outputs
 
 ---
 
-## Example 3 — AR-linked geolocated artefact
+## 🧠 Conceptual contribution
 
-### Description
-A multimodal artefact is linked to a specific urban location using AR or geolocation tools.
+The project conceptualises OER not as end products, but as a **design principle embedded across the entire learning process**.
 
-### Components
-- digital artefact (text + image)
-- geolocation marker
-- AR access link or QR code reference
+In this model:
 
-### Pedagogical focus
-- spatial mediation
-- situated learning
-- contextual meaning-making
-
-### OER potential
-Very high — enables reuse in place-based learning scenarios
+- Tasks are designed as potentially reusable artefacts from the outset
+- Learner outputs are treated as candidates for educational reuse
+- Openness operates as a structuring principle of instructional design
+- Urban environments function as semiotic and pedagogical spaces
+- AR acts as a contextual mediational layer between digital and physical space
 
 ---
 
-## Example 4 — Recontextualised communicative adaptation
+## How to use this repository
 
-### Description
-A learner adapts the same urban input for a different audience (e.g. tourist guide or language learner support).
+This repository is structured as a modular Open Educational Resources (OER) system for task-based language learning in urban contexts.
 
-### Components
-- original artefact
-- adapted version (different communicative purpose)
-- explanation of adaptation choices
+Each folder corresponds to a functional component of the instructional design:
 
-### Pedagogical focus
-- audience awareness
-- communicative adaptation
-- mediation strategies
+- 01 Teaching design → pedagogical framework and session planning  
+- 02 Learning tasks → task sequences for urban linguistic landscape activities  
+- 03 Assessment → evaluation rubrics for mediation, multimodality, and OER quality  
+- 04 AR guidelines → augmented reality integration framework  
+- 05 Templates → reusable artefact and task templates  
+- 06 Examples → anonymised learner outputs and reference materials  
 
-### OER potential
-High — demonstrates transferability across contexts
+Users (teachers, researchers, or instructional designers) may:
 
----
-
-## Analytical note
-
-These examples are not isolated outputs but represent different stages of the same pedagogical system:
-
-- observation (urban input)
-- mediation (meaning transformation)
-- multimodal production (artefact creation)
-- spatial recontextualisation (AR integration)
-- adaptation (OER potential)
-
-Together, they illustrate the integrated nature of the intervention.
+- adapt the full sequence as a complete course module  
+- reuse individual components independently  
+- modify templates for other languages or contexts  
+- integrate AR workflows into their own pedagogical designs  
 
 ---
 
-## Relationship with research framework
+## Quick navigation
 
-| Dimension | Manifestation in examples |
-|----------|--------------------------|
-| Linguistic mediation | Reformulation of urban input into Chinese |
-| Multimodality | Integration of text, image, and optional media |
-| AR mediation | Geolocation and spatial embedding |
-| OER potential | Reusability and adaptability of artefacts |
-
----
-
-## Key insight
-
-Learner outputs are not final products but **intermediate open artefacts** designed for circulation, adaptation, and reuse.
-
-This reframes language learning as a process of open knowledge production within urban environments.
+- [01 Teaching design](./01_teaching_design/) — Pedagogical framework and instructional design  
+- [02 Learning tasks](./02_learning_tasks/) — Task sequences for urban linguistic landscape activities  
+- [03 Assessment](./03_assessment/) — Evaluation rubrics for mediation, multimodality, and OER quality  
+- [04 AR guidelines](./04_ar_guidelines/) — Augmented reality integration framework  
+- [05 Templates](./05_templates/) — Reusable artefact and task templates  
+- [06 Examples](./06_examples/) — Anonymised learner outputs and reference materials  
 
 ---
 
-## Notes for reuse
+## 🧪 Methodological note
 
-- Examples can be adapted for other languages
-- They can be simplified for lower proficiency levels
-- They can be used as templates for new tasks
-- They can be integrated into teacher training
+The materials in this repository were developed as part of a mixed-methods case study involving:
+
+- Multimodal artefact analysis
+- Learning diaries
+- Classroom observation
+- Rubric-based evaluation of OER potential
+
+The dataset consists of learner-generated artefacts produced under an open license (CC BY-SA 4.0).
+
+---
+
+## 🔓 Licensing
+
+Unless otherwise specified, all materials are released under:
+
+Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+
+This allows reuse, adaptation, and redistribution with appropriate attribution.
+
+---
+
+## Recommended citation
+
+If you use or adapt this repository, please cite it as follows:
+
+Empar Yahui. (2026). *Urban Linguistic Landscape OER for Task-Based Chinese Learning (A1–A2)*. GitHub repository. https://github.com/EmparYahui/urban-oer-chinese
+
+This repository is associated with a research-based study on open, multimodal, and urban task-based language learning.
+
+---
+
+## 📍 Citation note
+
+If you use or adapt this repository, please also cite the associated research article (forthcoming or submitted to EUROCALL-related publication venue).
+
+---
+
+## 🌐 Educational positioning
+
+This project contributes to research in:
+
+- Technology-enhanced language learning (TELL)
+- Open Educational Practices (OEP)
+- Task-based and experiential language pedagogy
+- Multimodal and situated learning design
+- AR-enhanced language education
+
+---
+
+## 📝 Note
+
+This repository is a living OER system. It is designed to evolve through reuse, adaptation, and pedagogical iteration across different educational contexts.
