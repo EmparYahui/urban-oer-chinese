@@ -1,157 +1,104 @@
-# Urban Linguistic Landscape OER for Task-Based Chinese Learning (A1–A2)
-
-A research-based Open Educational Resources (OER) system for urban, task-based, multimodal language learning with augmented reality (AR).
+# 🌍 Urban Linguistic Landscape OER  
+## Task- and Project-Based Chinese Learning (A1–A2)
 
 ---
 
-## 🌐 Overview
+## 🧭 Overview
 
-This repository presents a **research-informed pedagogical system** designed for beginner Chinese (A1–A2 CEFR level).
+This repository presents a research-based Open Educational Resources (OER) system for beginner Chinese (A1–A2 CEFR level).
 
 It integrates:
 
 - Urban Linguistic Landscapes (ULL)
-- Task-Based / Project-Based Learning
+- Task- and project-based learning
 - Multimodal production and mediation
-- Augmented Reality (AR)
-- Open Educational Practices (OEP/OER)
+- Augmented Reality (AR) as a mediational layer
+- Open Educational Practices (OEP)
 
-into a unified instructional-research architecture.
-
----
-
-## 🧠 System identity
-
-This is not a course repository.
-
-It is a **cyclical pedagogical-research system** where:
-
-- theory structures design  
-- design generates tasks  
-- tasks produce artefacts  
-- artefacts become research data  
-- research feeds redesign  
-- openness governs the entire system  
+The system is designed as a **cyclical pedagogical architecture**, where learning design, learner activity, and research evidence are structurally interconnected.
 
 ---
 
-## 🔗 Quick Navigation
+## 🧠 System architecture
 
-### 🧠 Theory Layer (Foundational Framework)
+The repository is organised into six interconnected modules plus a theoretical foundation:
 
-- 🧠 [00 Theory](./00_theory/)
-
----
-
-### 📁 Core System Modules
-
-- 🧠 [01 Teaching design](./01_teaching_design/)
-- 🌍 [02 Learning tasks](./02_learning_tasks/)
-- 📊 [03 Assessment](./03_assessment/)
-- 🧭 [04 AR guidelines](./04_ar_guidelines/)
-- 🧰 [05 Templates](./05_templates/)
-- 📁 [06 Examples](./06_examples/)
+- 00 → Theory and conceptual framework  
+- 01 → Teaching design (pedagogical architecture)  
+- 02 → Learning tasks (implementation layer)  
+- 03 → Assessment (evaluation instruments)  
+- 04 → AR guidelines (spatial mediation layer)  
+- 05 → Templates (reusable design scaffolds)  
+- 06 → Examples (learner-generated artefacts)
 
 ---
 
-### 👩‍🏫 For Teachers & Designers
-Start here:
+## 🔁 System logic
 
-- 01 Teaching design  
-- 02 Learning tasks  
-- 05 Templates  
+The system operates as a **closed pedagogical loop**:
 
----
-
-### 🔬 For Researchers
-Start here:
-
-- 00 Theory  
-- 03 Assessment  
-- 06 Examples  
-
----
-
-### 📱 For AR / Digital Designers
-Start here:
-
-- 04 AR guidelines  
-- 02 Learning tasks  
-
----
-
-### 🔁 Full System Pathway
-
-00 → 01 → 02 → 03 → 04 → 05 → 06
-
----
-
-## 🧩 System architecture
-
-- 00 Theory → conceptual foundations  
-- 01 Teaching design → pedagogical structure  
-- 02 Learning tasks → implementation layer  
-- 03 Assessment → evaluation framework  
-- 04 AR guidelines → spatial mediation layer  
-- 05 Templates → reusable design scaffolds  
-- 06 Examples → empirical learner outputs  
-
----
-
-## 🔄 Core learning cycle
-
-1. Urban linguistic input  
+1. Urban input and observation  
 2. Mediation and interpretation  
 3. Multimodal production  
 4. AR contextualisation  
 5. Evaluation and reflection  
-6. Open publication as OER  
+6. Open release as OER
+
+Each cycle produces artefacts that function simultaneously as:
+- learning outcomes  
+- analytical data  
+- reusable educational resources  
 
 ---
 
-## 🎯 Research foundations
+## 🧭 Quick navigation
 
-Based on a mixed-methods study combining:
+### 🧠 Theory
+→ [00 Theory](./00_theory/)
 
-- Urban Linguistic Landscapes (ULL)  
-- Task / Project-Based Learning  
-- Multimodal learning and hybrid writing  
-- Linguistic mediation in L2 development  
-- Open Educational Resources (OER)  
-- Augmented Reality (AR) mediation  
+### 🧩 Pedagogical design
+→ [01 Teaching Design](./01_teaching_design/)
 
----
+### 🌍 Learning implementation
+→ [02 Learning Tasks](./02_learning_tasks/)
 
-## 🌍 Design principles
+### 📊 Evaluation
+→ [03 Assessment](./03_assessment/)
 
-- Urban space as learning environment  
-- Tasks as design instruments  
-- Learner outputs as reusable knowledge objects  
-- Openness as structuring logic  
-- AR as mediational infrastructure  
+### 🧭 AR mediation
+→ [04 AR Guidelines](./04_ar_guidelines/)
 
----
+### 🧰 Reusable templates
+→ [05 Templates](./05_templates/)
 
-## ♻️ Sustainability and evolution
-
-This is a **living OER system**.
-
-It evolves through:
-
-- pedagogical reuse  
-- contextual adaptation  
-- iterative redesign  
-- technological updates  
-- learner-generated data  
+### 📁 Empirical examples
+→ [06 Examples](./06_examples/)
 
 ---
 
-## 📌 Context
+## 🔗 Conceptual positioning
 
-- Target language: Chinese (A1–A2 CEFR)  
-- Institutional context: university-based (Spain)  
-- Data: anonymised learner artefacts  
-- License: CC BY-SA 4.0  
+This project contributes to research in:
+
+- Technology-Enhanced Language Learning (TELL)  
+- Task-Based Language Teaching (TBLT)  
+- Open Educational Practices (OEP/OER)  
+- Multimodal and mediated learning  
+- Urban and situated language pedagogy  
+- AR-enhanced educational design  
+
+---
+
+## 📌 Research foundation
+
+The system is based on a mixed-methods educational design study exploring how urban linguistic landscapes and multimodal production can support open, reusable learning ecologies.
+
+---
+
+## 📄 Citation
+
+Liu Zhou, Empar Yahui (2026).  
+*Urban Linguistic Landscape OER for Task- and Project-Based Chinese Learning (A1–A2).* GitHub repository.  
 
 ---
 
@@ -159,36 +106,23 @@ It evolves through:
 
 Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
-Reuse, adaptation, and redistribution permitted with attribution.
+---
+
+## 🧩 System statement
+
+This repository is not a static collection of teaching materials.
+
+It is a **living pedagogical system**, where:
+
+- design shapes tasks  
+- tasks generate evidence  
+- evidence feeds evaluation  
+- outputs become reusable OER  
 
 ---
 
-## 📚 Citation
+## 🔁 Entry principle
 
-Liu Zhou, Empar Yahui (2026). *Urban Linguistic Landscape OER for Task-Based Chinese Learning (A1–A2)*. GitHub repository.
+You can enter the system from any module, but full understanding emerges through cyclical navigation.
 
----
-
-## 🌐 Research positioning
-
-This project contributes to:
-
-- Technology-Enhanced Language Learning (TELL)  
-- Open Educational Practices (OEP)  
-- Task-Based and experiential pedagogy  
-- Multimodal learning design  
-- AR-enhanced language education  
-
----
-
-## 🧭 System note
-
-This repository is a **relational learning architecture**, not a linear course.
-
-It connects:
-
-theory → design → action → artefacts → evidence → redesign
-
----
-
-## 🧩 End of entry point
+Start anywhere → move across layers → return to theory.
