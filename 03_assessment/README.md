@@ -41,4 +41,4 @@ This module provides the **evaluation framework** for analysing learning outcome
 
 Start here if you want to understand **how learning outcomes are evaluated**.
 
-→ Next: `04_ar_guidelines/`
+→ Next: [04 AR guidelines](../04_ar_guidelines/)
