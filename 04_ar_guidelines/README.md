@@ -30,8 +30,8 @@ This module defines how **Augmented Reality (AR)** functions as a mediational la
 
 ## 🔗 System connections
 
-- Extends → [02 Learning Tasks](../02_learning_tasks/)
-- Based on → [00 Theory](../00_theory/)
+- Based on → [01 Teaching Design](../01_teaching_design/)
+- Used in → [02 Learning Tasks](../02_learning_tasks/)
 - Supports → [06 Examples](../06_examples/)
 
 ---
