@@ -128,3 +128,12 @@ It is a **design principle that extends learning into physical space**, enabling
 - AR complexity can be adapted depending on institutional resources
 - Low-tech alternatives (QR codes, maps) are fully compatible
 - The pedagogical model remains valid independent of platform choice
+
+---
+
+## 🔙 Module navigation
+
+Return to the module interface:
+
+→ [AR guidelines](./README.md)
+
