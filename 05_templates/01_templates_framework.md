@@ -166,6 +166,23 @@ They operationalise:
 
 ---
 
+## 🧠 Template system workflow
+
+All templates in this module operate as part of an integrated pedagogical design sequence:
+
+**Task design → Multimodal production → Assessment design → OER output**
+
+This workflow represents the internal logic of the system, where:
+
+- task templates generate learning scenarios  
+- multimodal templates structure learner production  
+- assessment templates define evaluation criteria  
+- OER templates ensure reusability and dissemination  
+
+Together, they form a continuous pipeline from **pedagogical design to reusable educational resource creation**.
+
+---
+
 ## 🔙 Module Navigation
 
 Return to the module interface:
