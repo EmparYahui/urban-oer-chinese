@@ -53,3 +53,9 @@ Structure:
   "oer": {},
   "ar": {}
 }
+
+---
+
+## 🔁 Navigation
+
+← Back to the OER system overview → [README](../README.md)
