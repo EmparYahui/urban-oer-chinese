@@ -2,110 +2,126 @@
 
 ## 🧠 Overview
 
-This document defines the **data structure of learner-generated evidence** within the Urban Linguistic Landscape OER system.
+This document defines the **structured dataset schema** for learner-generated evidence in the Urban Linguistic Landscape OER system.
 
-It operationalises assessment outputs as a **structured research corpus**, enabling systematic analysis of mediation, multimodality, and OER quality.
+It operationalises assessment outputs as a **research-ready multimodal corpus**, enabling systematic analysis of mediation, multimodality, and OER production.
+
+The schema is fully aligned with the **Learning Evidence Unit (LEU)** model.
 
 ---
 
 ## 🧩 Unit of analysis: Learning Evidence Unit (LEU)
 
-Each learner production is treated as a **Learning Evidence Unit (LEU)**.
+Each learner production is represented as a **Learning Evidence Unit (LEU)**.
 
-An LEU is the smallest analysable unit in the system.
-
----
-
-## 📊 LEU data schema
-
-### 1. Identifiers
-
-| Field | Description |
-|------|-------------|
-| `leu_id` | Unique identifier of the evidence unit |
-| `learner_id` | Anonymised learner code |
-| `task_id` | Reference to Learning Task (02 module) |
-| `session_id` | Teaching/learning session identifier |
-| `date` | Timestamp of production |
+The LEU is the smallest analysable unit in the corpus and functions as the central entry of the dataset.
 
 ---
 
-### 2. Contextual metadata
+## 📊 Dataset structure overview
 
-| Field | Description |
-|------|-------------|
-| `urban_input_type` | Sign / image / sound / interaction / mixed |
-| `location_context` | Urban environment category |
-| `language_context` | Languages present in input |
-| `learning_stage` | Observation / mediation / production / reflection |
+The corpus is organised into **eight analytical dimensions**.
+
+Each LEU is encoded through these dimensions for research and assessment purposes.
 
 ---
 
-### 3. Mediation layer
+## 1. Identifiers
 
 | Field | Description |
 |------|-------------|
-| `mediation_operations` | rewrite / translate / adapt / select / transform |
-| `intercultural_shift` | low / medium / high |
-| `audience_orientation` | self / peers / external audience |
+| leu_id | Unique identifier of the evidence unit |
+| learner_id | Anonymised learner code |
+| task_id | Reference to Learning Task (Module 02) |
+| session_id | Teaching/learning session identifier |
+| timestamp | Time of production |
 
 ---
 
-### 4. Multimodal layer
+## 2. Contextual dimension
 
 | Field | Description |
 |------|-------------|
-| `modes_used` | text / image / audio / video |
-| `mode_interaction` | additive / integrated / hybrid |
-| `semiotic_density` | low / medium / high |
+| urban_input_type | sign / image / audio / interaction / multimodal environment |
+| spatial_context | urban setting category (street / transport / institution / hybrid) |
+| language_environment | languages present in input |
+| learning_phase | observation / mediation / production / reflection |
 
 ---
 
-### 5. Linguistic layer (A1–A2)
+## 3. Mediation dimension
 
 | Field | Description |
 |------|-------------|
-| `accuracy_level` | 1–4 (rubric-aligned) |
-| `lexical_range` | basic / emerging / functional |
-| `pragmatic_clarity` | low / medium / high |
+| mediation_operations | interpret / translate / adapt / select / transform |
+| mediation_complexity | low / medium / high |
+| intercultural_shift | minimal / moderate / strong |
+| audience_orientation | self / peer / external |
 
 ---
 
-### 6. Assessment layer
+## 4. Multimodal dimension
 
 | Field | Description |
 |------|-------------|
-| `mediation_score` | 1–4 |
-| `multimodal_score` | 1–4 |
-| `linguistic_score` | 1–4 |
-| `oer_potential_score` | 1–4 |
-| `global_score` | aggregated index |
+| modes_used | text / image / audio / video / mixed |
+| multimodal_configuration | additive / integrated / hybrid |
+| semiotic_density | low / medium / high |
 
 ---
 
-### 7. OER dimension
+## 5. Linguistic dimension (A1–A2)
 
 | Field | Description |
 |------|-------------|
-| `reusability` | low / medium / high |
-| `adaptability` | low / medium / high |
-| `clarity_external_use` | low / medium / high |
+| grammatical_control | 1–4 scale (rubric-aligned) |
+| lexical_range | basic / emerging / functional |
+| pragmatic_clarity | low / medium / high |
 
 ---
 
-### 8. AR integration (if applicable)
+## 6. Assessment dimension
 
 | Field | Description |
 |------|-------------|
-| `ar_present` | yes / no |
-| `spatial_anchor_quality` | low / medium / high |
-| `context_coherence` | low / medium / high |
+| mediation_score | 1–4 |
+| multimodal_score | 1–4 |
+| linguistic_score | 1–4 |
+| oer_potential_score | 1–4 |
+| global_assessment_index | derived composite indicator |
+
+---
+
+## 7. OER dimension
+
+| Field | Description |
+|------|-------------|
+| reusability | low / medium / high |
+| adaptability | low / medium / high |
+| external_clarity | low / medium / high |
+
+---
+
+## 8. AR dimension (if applicable)
+
+| Field | Description |
+|------|-------------|
+| ar_used | yes / no |
+| spatial_alignment_quality | low / medium / high |
+| contextual_coherence | low / medium / high |
 
 ---
 
 ## 🧠 System role
 
-This schema transforms learner outputs into a **structured multimodal corpus for educational research and assessment analytics**.
+This dataset schema transforms learner outputs into a **structured multimodal corpus for educational research, assessment analytics, and OER evaluation**.
+
+It ensures:
+
+- comparability across tasks
+- consistency of annotation
+- traceability of mediation processes
+- research reproducibility
 
 ---
 
