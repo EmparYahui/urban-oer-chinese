@@ -150,3 +150,16 @@ It is a **living pedagogical system**, where:
 You can enter the system from any module, but full understanding emerges through cyclical navigation.
 
 Start anywhere → move across layers → return to theory.
+
+---
+
+Research Object Metadata:
+
+- Title: Urban Linguistic Landscape OER for Task- and Project-Based Chinese Learning (A1–A2)
+- Author: Liu Zhou, Empar Yahui
+- Year: 2026
+- Type: Open Educational Resource (OER)
+- Research domain: Second Language Acquisition / Multimodal Learning / Linguistic Landscapes
+- License: CC BY-SA 4.0
+- Persistent Identifier: https://doi.org/10.5281/zenodo.19535648
+- Repository: https://github.com/EmparYahui/urban-oer-chinese
