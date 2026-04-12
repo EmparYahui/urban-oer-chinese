@@ -10,6 +10,23 @@ Urban environments, linguistic mediation, multimodal production, and augmented r
 
 ---
 
+## 🚀 How to start (5 minutes)
+
+If you are a teacher:
+1. Choose one task from Phase 1
+2. Prepare 2–3 real urban images (or let students collect them)
+3. Use L1 support if needed for A1 level learners
+
+If you are a student:
+1. Go outside and take a photo of a sign or public text
+2. Come back and complete Task 1
+
+If you are using online learning:
+1. Use Google Street View or local image banks
+2. Follow the same task steps
+
+---
+
 ## Pedagogical principles
 
 All tasks follow the following principles:
