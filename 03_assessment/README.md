@@ -10,7 +10,7 @@ This module provides the **integrated evaluation system** for analysing:
 - AR-mediated learning
 - Open Educational Resource (OER) quality
 
-Assessment is both **pedagogical and research-oriented**, supporting classroom evaluation and empirical analysis of learning processes.
+Assessment operates as both **pedagogical evaluation and structured learning analysis**, supporting classroom decision-making and systematic interpretation of learner outputs.
 
 ---
 
@@ -27,17 +27,25 @@ This document defines the **conceptual model and core analytic dimensions** of t
 The module is operationalised through four interrelated components:
 
 - 📊 [Multimodal rubrics](./02_rubrics_multimodal.md) — analytic criteria for artefact evaluation  
-- 🧭 [Evidence mapping system](./03_evidence_mapping.md) — tracking and structuring learner data  
-- ⚙️ [Assessment protocols](./04_assessment_protocols.md) — procedures for implementation  
-- 🧪 [Assessment examples](./05_assessment_examples.md) — calibration and reference artefacts  
+- 🧭 [Evidence mapping system](./03_evidence_mapping.md) — structuring and tracking learner evidence  
+- ⚙️ [Assessment protocols](./04_assessment_protocols.md) — procedural implementation of assessment  
+- 🧪 [Assessment examples](./05_assessment_examples.md) — reference artefacts for calibration and interpretation  
+
+---
+
+## 📦 Data and structure layer
+
+- 🗂️ [Assessment dataset schema](./06_assessment_dataset_schema.md) — formal structure for organising learner evidence as analyzable data  
+- 🏷️ [Corpus annotation guidelines](./07_corpus_annotation_guidelines.md) — rules for consistent tagging and interpretation  
+- 📤 [Data export model](./08_data_export_model.md) — formats for exporting assessment data for teaching and analysis  
 
 ---
 
 ## 🚀 How to use
 
-- Teachers → evaluate learner outputs formatively and summatively using rubrics and protocols  
-- Researchers → analyse mediation, multimodality, and OER production using evidence mapping  
-- Designers → align task design (Module 02) with evaluable outcomes in this system  
+- **Teachers** → evaluate learner outputs using rubrics and protocols, and track progress through evidence mapping  
+- **Researchers** → analyse mediation, multimodality, and OER production using structured datasets and annotation guidelines  
+- **Designers** → align learning tasks (Module 02) with evaluable outcomes and data structures in this system  
 
 ---
 
@@ -45,7 +53,7 @@ The module is operationalised through four interrelated components:
 
 - Evaluates → [02 Learning Tasks](../02_learning_tasks/)  
 - Informed by → [00 Theory](../00_theory/)  
-- Produces analyzable data for → [06 Examples](../06_examples/)  
+- Produces structured data for → [06 Examples](../06_examples/)  
 
 ---
 
