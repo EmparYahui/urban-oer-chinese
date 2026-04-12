@@ -96,3 +96,9 @@ Ensures that all LEUs are annotated in a way that allows:
 - corpus consistency
 - cross-task comparability
 - research reproducibility
+  
+---
+
+## 🔁 Navigation
+
+← Back to the OER system overview → [README](../README.md)
