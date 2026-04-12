@@ -31,6 +31,29 @@ The repository is organised into six interconnected modules plus a theoretical f
 - 05 → Templates (reusable design scaffolds)  
 - 06 → Examples (learner-generated artefacts)
 
+
+```mermaid
+flowchart TD
+
+A[01 Teaching Design<br>Pedagogical Principles]
+B[02 Learning Tasks<br>Task-Based Implementation]
+C[03 Assessment System<br>Evaluation Framework]
+D[04 AR Guidelines<br>Spatial Mediation Layer]
+E[05 Templates<br>Production Scaffolds]
+F[06 Examples<br>Learner Artefacts Corpus]
+G[07 Use Cases<br>Pedagogical Transfer]
+
+A --> B
+B --> C
+C --> D
+D --> E
+E --> F
+F --> G
+G --> A
+
+G --> H((OER REUSE CYCLE))
+```
+
 ---
 
 ## 🔁 System logic
