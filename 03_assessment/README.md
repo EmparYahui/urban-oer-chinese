@@ -2,43 +2,54 @@
 
 ## 🧩 What this module is
 
-This module provides the **evaluation framework** for analysing learning outcomes and artefacts.
+This module provides the **integrated evaluation system** for analysing:
+
+- learner language development (A1–A2 Chinese)
+- multimodal artefacts
+- mediation processes
+- AR-mediated learning
+- Open Educational Resource (OER) quality
+
+Assessment is both **pedagogical and research-oriented**.
 
 ---
 
 ## 📄 Main document
 
-👉 [Assessment framework](./assessment_framework.md)
+👉 [Assessment framework](./01_assessment_framework.md)
+
+This is the core instrument of the module.
 
 ---
 
 ## 📦 Contents
 
-- assessment rubrics  
-- mediation analysis criteria  
-- multimodal evaluation  
-- OER quality indicators  
+- Integrated assessment framework
+- Multimodal rubrics
+- Evidence mapping system
+- Assessment protocols
+- Annotated learner examples
 
 ---
 
 ## 🚀 How to use
 
-- Teachers → assess learner outputs  
-- Researchers → analyse artefacts  
-- Designers → align tasks with evaluation  
+- Teachers → evaluate learner outputs formatively and summatively  
+- Researchers → analyse mediation, multimodality, and OER production  
+- Designers → align task design with evaluable outcomes  
 
 ---
 
 ## 🔗 System connections
 
 - Evaluates → [02 Learning Tasks](../02_learning_tasks/)
-- Applied to → [06 Examples](../06_examples/)
 - Informed by → [00 Theory](../00_theory/)
+- Generates data for → [06 Examples](../06_examples/)
 
 ---
 
 ## 🧭 Navigation
 
-Start here if you want to understand **how learning outcomes are evaluated**.
+Start here if you want to understand **how learning is evaluated as a system of meaning-making, not only language accuracy**.
 
-→ Next: [04 AR guidelines](../04_ar_guidelines/)
+→ Next module: [04 AR Guidelines](../04_ar_guidelines/)
