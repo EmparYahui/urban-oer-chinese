@@ -74,6 +74,32 @@ Each cycle produces artefacts that function simultaneously as:
 
 ---
 
+## 🧩 System statement
+
+This repository is not a static collection of teaching materials.
+
+It is a **living pedagogical system**, where:
+
+- design shapes tasks  
+- tasks generate evidence  
+- evidence feeds evaluation  
+- outputs become reusable OER  
+
+---
+
+## 🔗 Conceptual positioning
+
+This project contributes to research in:
+
+- Technology-Enhanced Language Learning (TELL)  
+- Task-Based Language Teaching (TBLT)  
+- Open Educational Practices (OEP/OER)  
+- Multimodal and mediated learning  
+- Urban and situated language pedagogy  
+- AR-enhanced educational design  
+
+---
+
 ## 🧭 Quick navigation
 
 ### 🧠 Theory
@@ -99,16 +125,11 @@ Each cycle produces artefacts that function simultaneously as:
 
 ---
 
-## 🔗 Conceptual positioning
+## 🔁 Entry principle
 
-This project contributes to research in:
+You can enter the system from any module, but full understanding emerges through cyclical navigation.
 
-- Technology-Enhanced Language Learning (TELL)  
-- Task-Based Language Teaching (TBLT)  
-- Open Educational Practices (OEP/OER)  
-- Multimodal and mediated learning  
-- Urban and situated language pedagogy  
-- AR-enhanced educational design  
+Start anywhere → move across layers → return to theory.
 
 ---
 
@@ -132,24 +153,9 @@ Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
 
 ---
 
-## 🧩 System statement
+## 🌐 OER Web Version
 
-This repository is not a static collection of teaching materials.
-
-It is a **living pedagogical system**, where:
-
-- design shapes tasks  
-- tasks generate evidence  
-- evidence feeds evaluation  
-- outputs become reusable OER  
-
----
-
-## 🔁 Entry principle
-
-You can enter the system from any module, but full understanding emerges through cyclical navigation.
-
-Start anywhere → move across layers → return to theory.
+https://emparyahui.github.io/urban-oer-chinese/
 
 ---
 
