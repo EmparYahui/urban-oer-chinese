@@ -123,6 +123,8 @@ The system is based on a mixed-methods educational design study exploring how ur
 Liu Zhou, Empar Yahui (2026).  
 *Urban Linguistic Landscape OER for Task- and Project-Based Chinese Learning (A1–A2).* GitHub repository.  
 
+DOI (via Zenodo): will be assigned upon release.
+
 ---
 
 ## 🔓 License
