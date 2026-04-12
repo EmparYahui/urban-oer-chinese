@@ -1,60 +1,162 @@
-# Templates Overview — Reusable Pedagogical Resources
+# 📐 05 Templates — Pedagogical Design System
 
-## 🧠 Overview
+## 🧠 What this module is
 
-This section provides templates for creating and adapting tasks, activities, and learner artefacts within the **Urban Linguistic Landscape OER**. These templates are designed to facilitate the integration of key pedagogical elements such as **task-based learning**, **multimodal production**, and **linguistic mediation**.
+This module provides a structured system of reusable pedagogical templates that operationalise the Urban Linguistic Landscape OER.
 
-The templates can be used by teachers and designers to **standardize** and **streamline** the creation of learning materials, ensuring consistency and alignment with the overall OER framework.
+Rather than functioning as isolated documents, these templates form a coherent design system for generating:
 
----
+- learning tasks
+- multimodal learner artefacts
+- assessment instruments
+- reusable Open Educational Resources (OER)
 
-## 🧩 Types of Templates Provided
-
-### 1. **Task Design Template**
-- A template for designing urban exploration and language mediation tasks, aligning them with the core principles of **Task-Based Language Teaching (TBLT)**.
-
-### 2. **Multimodal Production Template**
-- A template for guiding learners in producing multimodal artefacts (text, image, audio), emphasizing coherence and integration of modes.
-
-### 3. **Assessment Template**
-- A standardized format for designing assessments that align with the multimodal rubrics and evaluation dimensions.
-
-### 4. **OER Output Template**
-- A template for creating reusable learning artefacts that can be published as Open Educational Resources (OER), ensuring adaptability and pedagogical clarity.
+They act as a bridge between pedagogical design, classroom implementation, and research-oriented data production.
 
 ---
 
-## 🎯 Purpose of Templates
+## 🧩 Role in the OER system
 
-The templates are designed to:
+This module operates as a production layer within the overall architecture:
 
-- **Ensure consistency**: Align teaching practices with the overarching pedagogical system.
-- **Support teachers**: Offer easy-to-follow structures for task and material creation.
-- **Foster reusability**: Create flexible learning materials that can be easily adapted and reused across contexts.
-
----
-
-## 📦 Contents
-
-- **Task templates**: Templates for designing urban exploration and language mediation tasks.
-- **Multimodal artefact templates**: Templates for creating multimodal learning materials.
-- **OER design scaffolds**: Templates to guide the creation of reusable educational resources.
+- Informed by → [01 Teaching Design](../01_teaching_design/)
+- Implemented in → [02 Learning Tasks](../02_learning_tasks/)
+- Evaluated through → [03 Assessment](../03_assessment/)
+- Extended via → [04 AR Guidelines](../04_ar_guidelines/)
+- Documented in → [06 Examples](../06_examples/)
 
 ---
 
-## 🚀 How to use
+## 🧠 System logic
 
-- **Teachers**: Adapt templates for classroom use, ensuring alignment with teaching objectives and student needs.
-- **Designers**: Replicate the system's pedagogical logic to design new tasks and materials that maintain consistency.
-- **Researchers**: Standardize data collection through consistent task and artefact design.
+All templates follow a shared operational logic:
+
+1. Design → define pedagogical intentions and learning actions  
+2. Production → guide creation of learner outputs  
+3. Evaluation → ensure outputs are assessable  
+4. Reuse → enable transformation into OER resources  
 
 ---
 
-## 🔗 System connections
+## 🔁 Template workflow (core pipeline)
 
-- **Based on** → [01 Teaching Design](../01_teaching_design/)
-- **Used in** → [02 Learning Tasks](../02_learning_tasks/)
-- **Supports** → [06 Examples](../06_examples/)
+Task Design Template → Multimodal Production Template → Assessment Template → OER Output Template
+
+This pipeline ensures coherence between:
+
+- pedagogical design  
+- learner activity  
+- assessment practice  
+- open educational reuse  
+
+---
+
+## 📦 Types of templates
+
+### 1. Task Design System
+Supports structured urban learning tasks aligned with:
+- Task-Based Language Teaching (TBLT)
+- mediation processes
+- multimodal input (urban landscape)
+- optional AR integration
+
+→ [Task Design Template](./02_task_design_template.md)
+
+---
+
+### 2. Multimodal Production System
+Supports learner artefacts integrating:
+- text (A1–A2 Chinese)
+- images
+- audio/video (optional)
+- AR content (optional)
+
+Focus:
+- multimodal coherence
+- meaning construction
+- communicative clarity
+
+→ [Multimodal Production Template](./03_multimodal_production_template.md)
+
+---
+
+### 3. Assessment Design System
+Defines structured evaluation instruments aligned with:
+- multimodal rubrics
+- mediation processes
+- A1–A2 linguistic competence
+- OER potential
+
+Supports:
+- formative assessment
+- summative assessment
+- reflective evaluation
+
+→ [Assessment Template](./04_assessment_template.md)
+
+---
+
+### 4. OER Output System
+Guides transformation of learner artefacts into reusable resources.
+
+Focus:
+- clarity
+- adaptability
+- pedagogical transparency
+- reuse across contexts
+
+→ [OER Output Template](./05_oer_output_template.md)
+
+---
+
+## 🎯 Purpose of this module
+
+This module ensures:
+
+- consistency in pedagogical design
+- scalability of learning activities
+- alignment between teaching and assessment
+- transformation of learning outputs into OER
+- reproducibility for research purposes
+
+---
+
+## 🧩 Design principles
+
+- modularity
+- reusability
+- pedagogical transparency
+- multimodal awareness
+- mediation-oriented design
+- AR compatibility (optional)
+- CEFR A1–A2 accessibility
+
+---
+
+## 🧠 How to use
+
+Teachers → adapt templates for classroom use  
+Designers → build structured learning sequences  
+Researchers → standardise data generation  
+Developers → implement structured workflows  
+
+---
+
+## 🔗 System integration
+
+- Builds on → [01 Teaching Design](../01_teaching_design/)
+- Implements → [02 Learning Tasks](../02_learning_tasks/)
+- Supports → [03 Assessment](../03_assessment/)
+- Extends → [04 AR Guidelines](../04_ar_guidelines/)
+- Informs → [06 Examples](../06_examples/)
+
+---
+
+## 🧭 Navigation
+
+Start here if you want to design, structure, and scale pedagogical materials in a reusable OER system.
+
+→ Next: [06 Examples](../06_examples/)
 
 ---
 
