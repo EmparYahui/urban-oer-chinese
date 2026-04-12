@@ -1,152 +1,145 @@
-# 01 Assessment — Urban Linguistic Landscape OER (A1–A2 Chinese)
+# 01 Assessment Framework — Urban Linguistic Landscape OER (A1–A2 Chinese)
 
-## Overview
+## 🧠 Overview
 
-This module provides the assessment framework for the urban task-based Chinese learning intervention (A1–A2 CEFR level).
+This document defines the **core assessment framework** for the Urban Linguistic Landscape OER system.
 
-The assessment system is designed to evaluate both **language learning outcomes** and the **quality of learner-generated Open Educational Resources (OER)**.
+It integrates evaluation of:
 
-It integrates linguistic, multimodal, mediational, and open-design dimensions in a unified evaluative framework.
+- linguistic development (A1–A2 CEFR)
+- mediation processes
+- multimodal production
+- AR-mediated learning
+- Open Educational Resource (OER) quality
 
----
-
-## Assessment philosophy
-
-Assessment is based on the following principles:
-
-- **Integrated evaluation**: language, mediation, multimodality, and OER quality are assessed together  
-- **Process + product orientation**: both learning processes and artefacts are evaluated  
-- **Situated assessment**: tasks are assessed in relation to urban and contextual learning environments  
-- **Openness-aware evaluation**: artefacts are assessed for their potential reuse and adaptability  
-- **CEFR alignment**: linguistic evaluation is calibrated at A1–A2 level  
+Assessment is designed as part of the system architecture, not as an external layer.
 
 ---
 
-## Assessment structure (hybrid model)
+## 🎯 Assessment philosophy
 
-This module combines:
+Assessment follows five principles:
 
-- A global analytic rubric (core instrument)
-- Dimension-specific sub-rubrics (for detailed analysis)
-- Qualitative descriptors aligned with research analysis
-
----
-
-# 1. Global analytic rubric
-
-This rubric is used for overall evaluation of learner-generated artefacts.
-
-| Dimension | Level 1 (Initial) | Level 2 (Basic) | Level 3 (Intermediate) | Level 4 (Advanced) |
-|----------|------------------|-----------------|--------------------------|---------------------|
-| Linguistic and intercultural mediation | Literal reproduction without adaptation | Partial adaptation with limited contextualisation | Appropriate reformulation with some cultural awareness | Effective mediation with strong contextual adaptation and audience awareness |
-| Multimodal production | Limited or disconnected use of modes | Basic integration of text and image | Coherent multimodal integration | Rich, strategic and meaningful multimodal composition |
-| Linguistic competence (A1–A2) | Frequent errors hinder communication | Errors present but meaning generally understandable | Mostly accurate with minor errors | High accuracy and functional control at A1–A2 level |
-| OER potential (reusability & adaptability) | Not reusable, lacks clarity | Limited reusability, requires adaptation | Reusable with minor adaptation | Highly reusable, clear, adaptable and pedagogically valuable |
+- **Integrated evaluation**: language, mediation, multimodality, and OER quality are assessed jointly  
+- **Process + product orientation**: both learning trajectories and final artefacts are evaluated  
+- **Situated assessment**: evaluation is grounded in urban and contextual learning environments  
+- **Openness-aware assessment**: outputs are evaluated for reuse, adaptation, and circulation potential  
+- **Research alignment**: assessment generates analyzable data for empirical study  
 
 ---
 
-# 2. Dimension-specific analytic criteria
+## 🧩 Assessment architecture
 
-## 2.1 Linguistic and intercultural mediation
+The system combines three layers:
 
-Assesses the ability to:
+### 1. Global analytic rubric
+Core evaluation instrument applied to all artefacts.
 
-- interpret urban linguistic input
-- reformulate meaning in Chinese
-- adapt content for communicative purpose
-- negotiate meaning across languages and contexts
+### 2. Dimension-specific criteria
+Focused analytical lenses for research interpretation.
 
-Focus: RQ2
-
----
-
-## 2.2 Multimodal production
-
-Assesses:
-
-- integration of text, image, and optional media
-- coherence between modes
-- communicative design of artefacts
-- hybrid writing practices
-
-Focus: RQ3
+### 3. Qualitative evidence layer
+Reflective and observational data (teacher + learner).
 
 ---
 
-## 2.3 Linguistic competence (A1–A2)
+## 📊 Global analytic rubric
 
-Assesses:
+| Dimension | Level 1 | Level 2 | Level 3 | Level 4 |
+|----------|--------|--------|--------|--------|
+| Linguistic & intercultural mediation | Literal reproduction | Partial adaptation | Appropriate reformulation | Context-sensitive mediation |
+| Multimodal production | Fragmented modes | Basic integration | Coherent multimodal design | Strategic multimodal composition |
+| Linguistic competence (A1–A2) | Communication breaks down | Limited but understandable | Functional accuracy | High control for level |
+| OER potential | Not reusable | Limited reuse | Reusable with adaptation | Highly reusable and transferable |
 
-- grammatical accuracy
+---
+
+## 🔍 Analytical dimensions
+
+### 2.1 Mediation
+Focus:
+- interpretation of urban input
+- cross-linguistic transformation
+- cultural adaptation
+- audience awareness
+
+---
+
+### 2.2 Multimodality
+Focus:
+- integration of modes (text, image, optional audio/video)
+- coherence of semiotic design
+- communicative functionality of multimodal artefacts
+
+---
+
+### 2.3 Linguistic competence
+Focus:
+- A1–A2 grammatical control
 - lexical adequacy
-- textual coherence
-- pragmatic appropriateness
-
-Focus: supporting L2 development within task constraints
+- pragmatic clarity
+- coherence in short discourse
 
 ---
 
-## 2.4 OER potential (reusability and openness)
-
-Assesses:
-
-- clarity and structure of artefacts
-- adaptability to other contexts
-- pedagogical usefulness
-- communicative transparency for external users
-- alignment with open licensing principles
-
-Focus: RQ4
+### 2.4 OER potential
+Focus:
+- clarity and structure
+- adaptability across contexts
+- pedagogical reusability
+- transparency for external users
+- licensing readiness
 
 ---
 
-## 3. Formative and qualitative assessment tools
+## 🧠 AR as evaluable layer
 
-In addition to the rubric, the following instruments are used:
+Augmented Reality is not evaluated technically.
 
-- learning diaries (reflective mediation processes)
-- teacher–researcher observation notes
-- artefact revision cycles
-- peer feedback (optional)
+It is assessed as **situated mediation infrastructure**, in terms of:
 
----
-
-## 4. Assessment of AR integration
-
-Augmented Reality (AR) is not assessed as a technical skill, but as a **contextual mediation layer**.
-
-It is evaluated in terms of:
-
-- relevance of spatial linking
+- relevance of spatial anchoring
 - coherence between artefact and location
-- enhancement of situated meaning-making
-- accessibility of the final geolocated resource
+- enhancement of situated meaning
+- accessibility of geolocated learning resources
 
 ---
 
-## 5. Alignment with research questions
+## 📂 Evidence sources
 
-| Research Question | Assessment focus |
-|------------------|------------------|
-| RQ1 | Effectiveness of task-based urban intervention |
+Assessment draws on:
+
+- learner artefacts
+- teacher observation logs
+- learner reflection notes
+- AR-linked outputs
+- revision cycles
+
+---
+
+## 🧪 Research alignment
+
+| Research focus | Assessment lens |
+|---------------|----------------|
+| RQ1 | Task effectiveness in urban context |
 | RQ2 | Quality of mediation processes |
-| RQ3 | Multimodal production and hybrid writing |
-| RQ4 | OER quality, reuse potential, adaptability |
+| RQ3 | Multimodal production competence |
+| RQ4 | OER quality and reusability |
 
 ---
 
-## 6. Notes for implementation
+## 🔁 System role
 
-- The rubric can be used for both research analysis and classroom assessment
-- It is designed to be adaptable to other languages and contexts
-- It can be applied at task level or final artefact level
-- Assessment should be combined with qualitative interpretation for research purposes
+This module functions as the **evaluation engine** of the system.
+
+It transforms learning outputs into:
+
+- pedagogical evidence
+- research data
+- reusable educational resources
 
 ---
 
-## 🔙 Module navigation
+## 🔙 Navigation
 
-Return to the module interface:
-
-→ [Assessment](./README.md)
-
+→ [Assessment overview](./README.md)
