@@ -2,103 +2,145 @@
 
 ## 🧠 Overview
 
-This document provides **standardised annotation rules** for ensuring consistency in the analysis of learner-generated evidence (LEUs).
+This document defines the **annotation protocol** for the analysis of Learning Evidence Units (LEUs) within the Urban Linguistic Landscape OER system.
 
-It ensures comparability across tasks, learners, and contexts.
+It ensures:
 
----
-
-## 🧩 General principles
-
-- Annotations must be **descriptive, not interpretative**
-- All categories must be **rubric-aligned**
-- Multimodal elements must be treated as **integrated meaning systems**
-- Annotation must remain **level-agnostic (A1–A2 aware)**
+- consistency across annotators
+- comparability across datasets
+- reproducibility of research analysis
+- alignment with the LEU data schema (06)
 
 ---
 
-## 🧩 Mediation annotation
+## 🧩 General annotation principles
 
-### Tagging rules
+All annotations must follow these rules:
 
-| Operation | Meaning |
-|----------|--------|
-| rewrite | reformulation without language change |
-| translate | cross-linguistic transfer |
-| adapt | cultural or contextual modification |
-| select | selection of relevant meaning |
-| transform | restructuring meaning across modes |
+- annotations must describe **observable features only**
+- interpretation must be avoided unless explicitly required
+- all categories must align with the **LEU dataset structure**
+- multimodal meaning is treated as a **single integrated system**
+- annotation must remain sensitive to **A1–A2 learner variation**
 
 ---
 
-## 🧩 Multimodal annotation
+## 🧩 Mediation annotation system
 
-### Mode tagging
+Mediation is annotated through **observable operations** performed by the learner.
 
-- TEXT → linguistic content
-- IMAGE → visual representation
-- AUDIO → oral/sonic layer
-- VIDEO → dynamic multimodal sequence
+### 1. Mediation operations (coded descriptors)
+
+| Code | Definition |
+|------|-----------|
+| REFORM | restructuring meaning within same language |
+| TRANS | transfer across languages |
+| ADAPT | cultural or contextual modification |
+| SELECT | selection or omission of meaning |
+| REORG | reorganisation across modes (multimodal restructuring) |
 
 ---
 
-### Integration coding
+### 2. Mediation complexity (observed level)
+
+| Level | Descriptor |
+|------|-------------|
+| LOW | minimal transformation of meaning |
+| MED | partial restructuring with some adaptation |
+| HIGH | significant transformation across language/culture/modes |
+
+---
+
+## 🧩 Multimodal annotation system
+
+### 1. Modalities present
+
+Annotate only what is explicitly present:
+
+- TEXT
+- IMAGE
+- AUDIO
+- VIDEO
+- AR
+
+---
+
+### 2. Multimodal configuration
 
 | Code | Meaning |
 |------|--------|
-| additive | modes are independent |
-| integrated | modes support each other |
-| hybrid | modes merge into single meaning system |
+| SEP | modes function independently |
+| SUP | modes support each other |
+| INT | modes form an integrated meaning system |
 
 ---
 
-## 🧩 Linguistic annotation (A1–A2)
+### 3. Semiotic density (descriptive level)
 
-- errors must NOT be over-penalised
-- focus on communicative effectiveness
-- annotate:
-  - clarity
-  - lexical adequacy
-  - pragmatic success
+| Level | Descriptor |
+|------|-------------|
+| LOW | single-mode dominance |
+| MED | two or more modes with partial interaction |
+| HIGH | full multimodal integration |
 
 ---
 
-## 🧩 OER annotation
+## 🧩 Linguistic annotation (A1–A2 scope)
 
-| Tag | Meaning |
-|----|--------|
-| reusable | can be used without modification |
-| adaptable | requires minor modification |
-| non-reusable | context-bound output |
+Linguistic annotation focuses on **communicative performance**, not error counting.
+
+Annotate:
+
+- CLARITY → message is understandable or not
+- LEXICAL RANGE → basic / emerging / functional
+- PRAGMATIC SUCCESS → successful / partial / unsuccessful communication
+
+---
+
+## 🧩 OER annotation system
+
+Evaluate only observable reuse potential:
+
+| Code | Meaning |
+|------|--------|
+| REUSE | immediately reusable |
+| ADAPT | reusable with minor modification |
+| BOUND | context-dependent, not reusable |
 
 ---
 
 ## 🧩 AR annotation
 
-- spatial anchoring must be described, not evaluated technically
-- focus on:
-  - meaning-place relation
-  - contextual relevance
-  - accessibility
+AR is annotated as a **situated meaning layer**, not a technical feature.
+
+Annotate:
+
+- SPATIAL LINK → weak / moderate / strong
+- CONTEXT FIT → low / medium / high
+- ACCESSIBILITY → clear / partial / unclear
 
 ---
 
-## 🧠 Quality rule
+## 🧠 Core annotation rule
 
-If uncertainty arises:
-> choose the **lowest inference level and highest observable descriptor**
+If uncertainty occurs:
+
+> prioritise observable evidence over inference or interpretation
 
 ---
 
-## 🔁 System role
+## 🧠 Relationship to system
 
-Ensures that all LEUs are annotated in a way that allows:
-- corpus consistency
-- cross-task comparability
-- research reproducibility
-  
+This annotation protocol operationalises:
+
+- 00 Learning Evidence Unit (LEU)
+- 06 Dataset Schema (variables structure)
+- 03 Assessment System (evaluation framework)
+
+It is the **bridge between qualitative observation and structured corpus data**.
+
 ---
 
 ## 🔁 Navigation
 
-← Back to the OER system overview → [README](../README.md)
+← Back to Assessment system → [README](../README.md)
