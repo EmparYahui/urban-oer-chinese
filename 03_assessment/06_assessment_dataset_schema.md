@@ -106,3 +106,9 @@ An LEU is the smallest analysable unit in the system.
 ## 🧠 System role
 
 This schema transforms learner outputs into a **structured multimodal corpus for educational research and assessment analytics**.
+
+---
+
+## 🔁 Navigation
+
+← Back to the OER system overview → [README](../README.md)
