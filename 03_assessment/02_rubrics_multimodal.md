@@ -2,108 +2,138 @@
 
 ## 🧠 Overview
 
-This document defines rubric-based evaluation for multimodal student outputs, focusing on key dimensions such as linguistic clarity, mediation quality, visual integration, semiotic density, and OER potential.
+This document defines rubric-based evaluation for multimodal learner outputs within the Urban Linguistic Landscape OER system.
+
+It is part of the **assessment architecture** and provides structured criteria for analysing:
+
+- linguistic clarity (A1–A2 Chinese)
+- mediation quality across languages and contexts
+- multimodal composition
+- semiotic integration
+- OER reuse potential
+
+These rubrics function as a **shared analytical language for teachers and researchers**.
 
 ---
 
-## 📊 Evaluation Dimensions
+## 🧩 System role
 
-The following dimensions will guide the evaluation of multimodal learner artefacts:
+This document operates as a **core analytical instrument** within the assessment engine.
 
-| **Dimension**               | **Indicators**                                                           | **Level 1 (Initial)**                                             | **Level 2 (Basic)**                                               | **Level 3 (Intermediate)**                                        | **Level 4 (Advanced)**                                           |
-|-----------------------------|-------------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|------------------------------------------------------------------|-----------------------------------------------------------------|
-| **1. Linguistic Clarity**    | Accuracy and communicative effectiveness.                               | Literal reproduction without adaptation or interpretation.        | Limited adaptation with minimal contextualisation.                | Appropriate reformulation with some cultural interpretation.     | Effective mediation with contextual adaptation and negotiation.  |
-| **2. Mediation Quality**     | Degree of meaning transformation across contexts or languages.         | Minimal meaning transformation with little understanding of context. | Some adaptation with limited contextual relevance.                 | Clear reformulation with relevant cultural mediation.            | Deep cultural and contextual adaptation, enhancing understanding.|
-| **3. Visual Integration**    | Coherence between text and visual elements.                             | Incoherent presentation; text and visuals do not align.           | Basic integration with some coherence between text and visuals.    | Strong coherence between text and visuals; consistent design.    | Seamless integration of text, visuals, and multimedia elements.  |
-| **4. Semiotic Density**      | Effectiveness of combined meaning-making modes (text, image, audio).   | Single mode used; limited meaning-making.                         | Combination of modes, but lacks depth in integration.             | Effective use of multiple modes with clear meaning-making.        | Rich semiotic integration, using all modes to enhance meaning.   |
-| **5. OER Potential**         | Reusability and adaptability of the artefact.                           | Difficult to reuse; lacks structure or clarity.                   | Limited reusability; requires major adaptations.                  | Reusable with minor adaptations for different contexts.           | Highly reusable, adaptable, and pedagogically clear for any context. |
+It supports:
+
+- pedagogical evaluation (teacher-facing)
+- research analysis (mediation and multimodality)
+- artefact classification for OER reuse
 
 ---
 
-## 🧠 Dimension Definitions
+## 📊 Global analytic rubric
 
-### 1. **Linguistic Clarity**
-   **Definition**: Refers to how clearly the language communicates the intended message, considering grammar, vocabulary, and coherence.
+This rubric is used for overall evaluation of learner artefacts.
 
-| **Level**  | **Descriptor**                                                  |
-|------------|------------------------------------------------------------------|
-| **Level 1** | The artefact shows little to no adaptation or interpretation of the language, leading to confusion. |
-| **Level 2** | There is some attempt at adaptation, but the meaning is not fully clear or appropriately contextualised. |
-| **Level 3** | Language is generally accurate with minor errors, and the meaning is mostly conveyed clearly. |
-| **Level 4** | The artefact demonstrates a high level of accuracy and coherence, with contextual adjustments enhancing clarity. |
-
----
-
-### 2. **Mediation Quality**
-   **Definition**: Measures how effectively meaning is transformed, interpreted, and communicated across different languages or contexts.
-
-| **Level**  | **Descriptor**                                                  |
-|------------|------------------------------------------------------------------|
-| **Level 1** | The meaning is only minimally transformed or understood, with little cultural or contextual relevance. |
-| **Level 2** | Basic transformation of meaning occurs, but there is limited contextual adaptation. |
-| **Level 3** | The meaning is reformulated in a way that is culturally relevant, enhancing understanding. |
-| **Level 4** | The artefact effectively adapts and negotiates meaning, deeply engaging with both linguistic and cultural elements. |
+| Dimension | Level 1 (Initial) | Level 2 (Basic) | Level 3 (Intermediate) | Level 4 (Advanced) |
+|----------|------------------|-----------------|--------------------------|---------------------|
+| Linguistic clarity | Literal reproduction | Limited adaptation | Appropriate reformulation | Context-sensitive communication |
+| Mediation quality | No meaningful transformation | Partial adaptation | Functional mediation | Deep contextual mediation |
+| Visual integration | Disconnected elements | Basic alignment | Coherent multimodal design | Integrated multimodal composition |
+| Semiotic density | Single mode | Limited multimodality | Functional multimodal use | Rich semiotic integration |
+| OER potential | Not reusable | Limited reuse | Reusable with adaptation | Highly reusable and transferable |
 
 ---
 
-### 3. **Visual Integration**
-   **Definition**: Evaluates how well the visual elements (images, graphics, videos) complement the text, enhancing the overall message.
+## 🔍 Dimension-based analytical criteria
 
-| **Level**  | **Descriptor**                                                  |
-|------------|------------------------------------------------------------------|
-| **Level 1** | The text and visuals do not work together, creating confusion or misunderstanding. |
-| **Level 2** | The text and visuals are somewhat related, but the integration is not seamless. |
-| **Level 3** | There is a strong relationship between text and visuals, supporting a clear narrative. |
-| **Level 4** | Text and visuals are expertly integrated, providing a cohesive, clear, and engaging narrative. |
+These dimensions are used for **deeper qualitative analysis**.
 
 ---
 
-### 4. **Semiotic Density**
-   **Definition**: Refers to the effectiveness of combining different modes of communication (text, image, sound) to convey meaning.
+### 1. Linguistic clarity
 
-| **Level**  | **Descriptor**                                                  |
-|------------|------------------------------------------------------------------|
-| **Level 1** | Only one mode is used, providing a limited depth of meaning. |
-| **Level 2** | Multiple modes are used but without significant depth or interaction. |
-| **Level 3** | A strong, meaningful combination of modes is used, contributing to the overall meaning. |
-| **Level 4** | A rich integration of modes that enhances the meaning and provides a comprehensive learning experience. |
+Focus:
 
----
-
-### 5. **OER Potential**
-   **Definition**: Assesses the artefact’s potential to be reused and adapted for other educational contexts or by other educators.
-
-| **Level**  | **Descriptor**                                                  |
-|------------|------------------------------------------------------------------|
-| **Level 1** | The artefact is difficult to reuse due to lack of clarity, structure, or adaptability. |
-| **Level 2** | The artefact has some reuse potential but requires significant adaptation. |
-| **Level 3** | The artefact is generally reusable with minor adaptations for different contexts. |
-| **Level 4** | The artefact is highly adaptable and can be used in a variety of contexts with minimal changes. |
+- grammatical accuracy (A1–A2 level)
+- lexical adequacy
+- coherence in short discourse
+- communicative clarity
 
 ---
 
-## 🧠 System Role
+### 2. Mediation quality
 
-This document provides a consistent set of evaluation criteria for multimodal artefacts produced by learners. It ensures that the artefacts are assessed based on key dimensions that contribute to the learning process, making it easier for instructors to measure progress and assess the quality of student outputs.
+Focus:
+
+- interpretation of urban input
+- cross-linguistic reformulation
+- cultural adaptation
+- audience-oriented meaning negotiation
+
+---
+
+### 3. Visual integration
+
+Focus:
+
+- relationship between text and image
+- coherence of multimodal design
+- communicative alignment of visual elements
+
+---
+
+### 4. Semiotic density
+
+Focus:
+
+- interaction between modes (text, image, optional audio/video)
+- meaning expansion through multimodality
+- distribution of meaning across semiotic resources
+
+---
+
+### 5. OER potential
+
+Focus:
+
+- clarity and structure of artefacts
+- adaptability across contexts
+- pedagogical reusability
+- transparency for external users
+- suitability for open licensing environments
+
+---
+
+## 🧠 System alignment
+
+This rubric system is directly aligned with:
+
+- learning design → [02 Learning Tasks](../02_learning_tasks/)
+- assessment engine → [03 Assessment](./README.md)
+- evidence tracking → [03 Evidence Mapping](./03_evidence_mapping.md)
+- research framework → [00 Theory](../00_theory/)
 
 ---
 
 ## 📦 Output
 
-- Standardised multimodal rubrics
-- Clear criteria for assessing student artefacts
-- Improved evaluation consistency across tasks and contexts
+This document enables:
+
+- consistent evaluation of learner artefacts
+- shared criteria for teacher and researcher use
+- structured comparison of multimodal outputs
+- classification of OER-ready materials
 
 ---
 
-## 📌 Note on pedagogical use
+## 📌 Design principle
 
-When implementing this project in real teaching contexts, each educator should adapt these rubrics to the specific level, needs, and learning context of their students.  
+Rubrics are not external grading tools.
 
-The framework is intended as a **flexible reference system**, not as a fixed or universal assessment instrument.
+They function as a **shared interpretive infrastructure** for:
+
+> meaning-making → mediation → multimodality → reuse
 
 ---
 
 ## 🔁 Navigation
 
-← Back to system overview → [README](../README.md)
+← Back to Assessment system → [README](./README.md)
