@@ -2,44 +2,176 @@
 
 ## 🧠 Overview
 
-This document provides a framework for mapping and tracking learner outputs throughout the OER system. It establishes a connection between the pedagogical design, learner tasks, and the evidence generated during the learning process.
+This document provides a framework for mapping and tracking learner outputs within the Urban Linguistic Landscape OER system.
+
+It establishes the connection between:
+
+- pedagogical design (tasks and sequences)
+- learner-generated artefacts
+- assessment criteria
+- research analysis
+
+Evidence mapping functions as the **bridge between teaching practice and research interpretation**.
+
+---
+
+## 🧩 System role
+
+This module operates as a **dual-layer system**:
+
+### 🟢 Layer 1 — Pedagogical layer (operational use)
+
+Supports teachers in:
+
+- tracking learner progress
+- organising student outputs
+- aligning tasks with assessment criteria
+- documenting learning evidence
+
+### 🔬 Layer 2 — Research layer (analytical use)
+
+Supports researchers in:
+
+- constructing a multimodal learning corpus
+- analysing mediation processes
+- studying multimodal production
+- evaluating AR-mediated learning
+- generating comparable datasets across contexts
 
 ---
 
 ## 🧩 Evidence Mapping Framework
 
-### Dimensions of Evidence Mapping
-
-| **Dimension**                     | **Description**                                                                                                                                                        | **Related Modules**                        |
-|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
-| **Linguistic and Intercultural Mediation** | Tracks how learners negotiate meaning, interpret cultural contexts, and adapt language.                                                                                   | 02 Learning Tasks, 03 Assessment           |
-| **Multimodal Production**           | Tracks how learners integrate text, visual, and audio elements into coherent outputs.                                                                                   | 02 Learning Tasks, 03 Assessment           |
-| **Linguistic Competence**           | Monitors the grammatical accuracy, lexical use, coherence, and pragmatic appropriateness of learner outputs.                                                              | 03 Assessment, 06 Examples                 |
-| **OER Potential**                   | Tracks the reusability, clarity, structure, and pedagogical suitability of learner-generated artefacts.                                                                  | 05 Templates, 03 Assessment                |
-| **AR Integration**                  | Monitors the integration of augmented reality tools and their effectiveness in mediating the learning experience.                                                           | 04 AR Guidelines, 02 Learning Tasks       |
+Learner outputs are mapped across five core dimensions:
 
 ---
 
-## 🔄 Evidence Tracking Process
+### 1. Linguistic and intercultural mediation
 
-The evidence mapping process ensures that all learner outputs are evaluated based on their contribution to the learning goals and research questions.
+Tracks how learners:
 
-1. **Mapping learner outputs**: As learners produce artefacts, they are mapped to the specific evaluation dimensions outlined in the rubrics.
-2. **Assessment of quality**: The learner's outputs are assessed according to established rubrics, with an emphasis on linguistic mediation, multimodal integration, and reusability.
-3. **Integration with research**: Evidence collected from learner outputs is used for both pedagogical assessment and research analysis.
+- interpret urban linguistic input
+- reformulate meaning in L2 (Chinese A1–A2)
+- adapt content across cultural contexts
+- negotiate meaning for specific audiences
 
 ---
 
-## 🧩 Mapping Tool for Teachers
+### 2. Multimodal production
 
-Teachers can use the evidence map to monitor student progress, assess outcomes, and provide formative feedback.
+Tracks how learners:
 
-### Suggested Tool for Evidence Mapping:
+- combine text, image, and optional audio/video
+- structure multimodal artefacts
+- create coherence across modes
+- design communicative outputs
 
-- A simple digital tool (e.g., Google Sheets, Airtable) can be used to track student outputs, assessment results, and their alignment with the predefined rubrics.
+---
+
+### 3. Linguistic competence
+
+Tracks:
+
+- grammatical accuracy (A1–A2 level)
+- lexical adequacy
+- coherence in short discourse
+- pragmatic appropriateness
+
+---
+
+### 4. OER potential
+
+Tracks:
+
+- clarity of artefacts
+- structural transparency
+- adaptability across contexts
+- pedagogical reusability
+- openness and reuse readiness
+
+---
+
+### 5. AR integration
+
+Tracks:
+
+- degree of spatial anchoring
+- relationship between artefact and physical environment
+- contribution of AR to meaning-making
+- accessibility of geolocated learning resources
+
+---
+
+## 🔄 Evidence structure (conceptual model)
+
+Each learner output is treated as a **Learning Evidence Unit (LEU)** composed of:
+
+- Context (task, setting, modality)
+- Input (urban linguistic source)
+- Process (mediation strategies)
+- Output (final artefact)
+- Evaluation (rubric-based assessment)
+
+---
+
+## 🧠 Evidence tracking process
+
+1. **Mapping**
+   Learner outputs are linked to tasks, sequences, and contexts.
+
+2. **Annotation**
+   Outputs are analysed using rubric dimensions (03 Assessment).
+
+3. **Interpretation**
+   Evidence is interpreted for both pedagogical feedback and research analysis.
+
+4. **Integration**
+   Data contributes to:
+   - learner progression tracking
+   - multimodal corpus construction
+   - OER evaluation
+
+---
+
+## 🧩 Implementation tools (optional)
+
+For classroom use, evidence mapping can be operationalised through:
+
+- spreadsheets (Google Sheets / Excel)
+- qualitative analysis tools (e.g. NVivo, Atlas.ti)
+- OER repositories
+- structured digital portfolios
+
+---
+
+## 🧠 System logic
+
+The system follows this transformation chain:
+
+> urban input → mediation process → multimodal output → evaluation → research corpus
+
+---
+
+## 📊 Research applications
+
+This framework enables:
+
+- corpus-based discourse analysis
+- mediation and translation studies
+- multimodal learning analytics
+- AR-based spatial learning research
+- OER effectiveness evaluation
+
+---
+
+## 📌 Design principle
+
+Evidence mapping is not a reporting tool.
+
+It is a **structured interpretive infrastructure** that connects learning activity with research knowledge production.
 
 ---
 
 ## 🔁 Navigation
 
-← Back to the OER system overview → [README](../README.md)
+← Back to Assessment system → [README](./README.md)
