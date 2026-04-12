@@ -2,42 +2,40 @@
 
 ## 🧩 What this module is
 
-This module defines how **Augmented Reality (AR)** functions as a mediational layer in the system.
+This module defines how **Augmented Reality (AR)** functions as a **pedagogical mediation layer** in the Urban Linguistic Landscape OER system.
+
+AR is not treated as a technical add-on, but as a **design principle for linking physical space, multimodal artefacts, and learner interpretation**.
 
 ---
 
-## 📄 Main document
+## 📦 Module structure
 
-👉 [AR guidelines framework](./ar_guidelines_framework.md)
-
----
-
-## 📦 Contents
-
-- AR integration principles  
-- spatial linking strategies  
-- tools and implementation guidelines  
+- 🧠 [AR Framework](./01_ar_guidelines_framework.md)
+- 🧩 [Learning Design Integration](./02_ar_integration_learning_design.md)
+- ⚙️ [Implementation Model](./03_ar_implementation_model.md)
+- 🧰 [Technology Stack](./04_ar_technology_stack.md)
+- 🧪 [Task Exemplars](./05_ar_task_exemplars.md)
 
 ---
 
-## 🚀 How to use
+## 🚀 How to use this module
 
-- Teachers → integrate AR into tasks  
-- Designers → design spatial learning experiences  
-- Developers → implement AR solutions  
+- Teachers → integrate AR into learning sequences
+- Designers → structure spatial learning experiences
+- Researchers → analyse mediation in situated contexts
 
 ---
 
 ## 🔗 System connections
 
 - Extends → [02 Learning Tasks](../02_learning_tasks/)
-- Based on → [00 Theory](../00_theory/)
-- Supports → [06 Examples](../06_examples/)
-  
+- Informed by → [00 Theory](../00_theory/)
+- Connected to → [03 Assessment System](../03_assessment/)
+
 ---
 
 ## 🧭 Navigation
 
-Start here if you want to understand **how digital and physical spaces are connected**.
+Start here if you want to understand how **learning is extended into physical space through digital mediation**.
 
-→ Next: [05 Templates](../05_templates/)
+→ Next module: [05 Templates](../05_templates/)
