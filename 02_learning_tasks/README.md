@@ -10,13 +10,13 @@ Tasks are situated in urban linguistic landscapes and structured for mediation, 
 
 ## 🚀 Start here (2 minutes)
 
-If you are a teacher:
-→ Open [Task Sequences](./02_task_sequences.md) and select Sequence 1
+If you are a teacher:  
+→ Open [Task Sequences](./02_task_sequences.md) and start with Sequence 1
 
-If you are a learner:
+If you are a learner:  
 → Start with Sequence 1 — Urban reading in [Task Sequences](./02_task_sequences.md)
 
-If you are using this independently:
+If you are using this independently:  
 → Follow sequences in order (1 → 4)
 
 ---
@@ -42,8 +42,8 @@ This is the core operational document of the module.
 
 - Teachers → implement sequences in classroom or fieldwork contexts  
 - Learners → engage in urban-based task cycles  
-- Designers → adapt templates to other languages, cities, or levels  
-- Researchers → use outputs as data for analysis of mediation and multimodality  
+- Designers → adapt templates to other languages, cities, or proficiency levels  
+- Researchers → use outputs as data for analysis of mediation, multimodality, and spatial learning  
 
 ---
 
@@ -91,5 +91,3 @@ Urban input → Task → Mediation → Multimodal output → (optional AR) → O
 Start here if you want to see **how learning happens in practice**.
 
 → Next module: [03 Assessment](../03_assessment/)
-
-→ Next: [03 Assessment](../03_assessment/)
