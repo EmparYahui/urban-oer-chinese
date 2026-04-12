@@ -13,6 +13,7 @@ This template helps educators create **Open Educational Resources (OER)** that a
 | **Artefact title**         | Provide a concise and descriptive title for the OER.                                                 |
 | **Core learning objective**| Specify the key learning objectives associated with the artefact.                                    |
 | **Content description**    | Provide a brief summary of the content in the artefact.                                               |
+| **Related LEU / dataset reference (optional)** | Link to the corresponding Learning Evidence Unit (LEU) or dataset entry from the assessment corpus (Module 03). |
 | **Multimodal components**  | List the modes used (e.g., text, images, audio).                                                    |
 | **Adaptability**           | Describe how the artefact can be adapted or reused in different educational contexts.                |
 | **Pedagogical considerations**| Outline any specific pedagogical goals or strategies addressed by the artefact.                     |
