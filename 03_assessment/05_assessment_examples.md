@@ -1,51 +1,181 @@
-# 05 Assessment Examples — Learner Artefacts and Evaluation
+# 05 Assessment Evidence Corpus — Annotated Learner Artefacts
 
 ## 🧠 Overview
 
-This document presents a collection of anonymized learner artefacts and examples of how these outputs have been evaluated using the assessment protocols and rubrics.
+This document provides a structured corpus of annotated learner artefacts (LARs) within the Urban Linguistic Landscape OER system.
+
+Each learner output is treated as a **Learner Artefact Record (LAR)**, enabling systematic analysis of mediation, multimodality, linguistic competence, and OER potential.
+
+This corpus is directly linked to:
+
+- 👉 [Assessment Framework](./01_assessment_framework.md)
+- 👉 [Multimodal Rubrics](./02_rubrics_multimodal.md)
+- 👉 [Assessment Protocols](./04_assessment_protocols.md)
 
 ---
 
-## 🧩 Sample Learner Artefacts
+## 🧩 Corpus structure
 
-### Example 1: Urban Sign Interpretation
+Each artefact follows this analytical structure:
 
-**Learner Output**: A photo of a bilingual urban sign (Chinese/Spanish), with a written description explaining the cultural significance and language use in both languages.
+- Identification (LAR_ID, Task_ID, Sequence_ID)
+- Context (learning situation and modality)
+- Input (urban stimulus)
+- Output (learner production)
+- Modalities (text / image / audio / AR)
+- Assessment scores (MED / MMI / LTC / OER)
+- Interpretive notes
 
-**Evaluation**:
+This structure is aligned with the **evidence mapping system**:
 
-| **Dimension**            | **Level 1 (Initial)**                                          | **Level 2 (Basic)**                                      | **Level 3 (Intermediate)**                                  | **Level 4 (Advanced)**                                      |
-|--------------------------|---------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
-| **Linguistic Clarity**    | Literal translation without cultural interpretation.          | Minimal contextualisation, basic understanding.          | Clear translation with some cultural context.                | Deep cultural insight with nuanced language adaptation.      |
-| **Mediation Quality**     | No adaptation between languages or cultures.                 | Basic adaptation with some errors.                       | Effective mediation with some negotiation of meaning.        | Excellent mediation with thorough contextual adaptation.     |
-| **Multimodal Production** | Image included with minimal text.                            | Image and text with basic coherence.                      | Image, text, and basic visual coherence.                     | Rich integration of text, image, and contextual relevance.   |
-
-### Example 2: Audio Recording of Urban Experience
-
-**Learner Output**: An audio recording describing the learner’s experience of interacting with urban signage and discussing the significance of various elements.
-
-**Evaluation**:
-
-| **Dimension**            | **Level 1 (Initial)**                                          | **Level 2 (Basic)**                                      | **Level 3 (Intermediate)**                                  | **Level 4 (Advanced)**                                      |
-|--------------------------|---------------------------------------------------------------|----------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------|
-| **Linguistic Clarity**    | Frequent grammatical errors, unclear speech.                 | Basic clarity with some errors in grammar and pronunciation. | Clear speech with minor grammatical or pronunciation errors. | Clear, fluent speech with proper grammar and pronunciation.  |
-| **Mediation Quality**     | No contextual adaptation.                                    | Limited adaptation and cultural interpretation.           | Effective mediation with some adaptation to cultural context. | Highly effective mediation with in-depth cultural interpretation. |
-| **OER Potential**         | Difficult to reuse, lacks coherence and clarity.              | Basic reusability, requires significant adaptation.        | Reusable with minor adjustments.                             | Highly reusable and adaptable with clear structure.         |
+→ [Evidence Mapping](./03_evidence_mapping.md)
 
 ---
 
-## 🧠 Reflection on Learner Artefacts
+## 📍 LAR_001 — Urban sign mediation
 
-- **Purpose**: These examples demonstrate the level of quality achievable within different dimensions of evaluation. Teachers should refer to the rubrics to evaluate artefacts within their own classes and make informed decisions on grading and feedback.
+**LAR_ID:** LAR_001  
+**Task_ID:** T2_Mediation_01  
+**Sequence_ID:** 2  
+**Context:** urban_fieldwork  
+**Language_level:** A1–A2  
+
+### Input
+- Type: bilingual urban sign  
+- Languages: Spanish / Chinese  
+- Medium: image  
+
+### Output
+- Type: written mediation  
+- Languages: Spanish + simplified Chinese  
+- Mode: multimodal (text + image)  
+
+### Modalities
+- Text: yes  
+- Image: yes  
+- Audio: no  
+- AR-linked: no  
+
+### Assessment scores
+- MED (Mediation): 3  
+- MMI (Multimodal integration): 3  
+- LTC (Linguistic competence): 2  
+- OER (Reusability): 3  
+
+### Interpretation
+- Successful contextual reformulation of meaning  
+- Partial cultural awareness development  
+- Moderate integration between text and image  
+- Functional A1–A2 linguistic control  
+
+→ Evaluated using: [Multimodal Rubrics](./02_rubrics_multimodal.md)
 
 ---
 
-## 🧩 Adaptation Guidelines
+## 📍 LAR_002 — Urban audio reflection
 
-- **Adjustments for Different Levels**: As per the learners’ proficiency level, it is advisable to adjust the complexity and depth of the artefacts evaluated. Lower-level learners may focus on more basic aspects like linguistic clarity, while advanced learners may be expected to engage more with cultural adaptation and multimodal integration.
-  
+**LAR_ID:** LAR_002  
+**Task_ID:** T1_Observation_03  
+**Sequence_ID:** 1  
+**Context:** urban_exploration  
+**Language_level:** A1–A2  
+
+### Input
+- Type: urban experience  
+- Medium: street environment  
+
+### Output
+- Type: oral reflection  
+- Medium: audio  
+
+### Modalities
+- Text: partial (transcription)  
+- Image: no  
+- Audio: yes  
+- AR-linked: no  
+
+### Assessment scores
+- MED: 2  
+- MMI: 2  
+- LTC: 2  
+- OER: 2  
+
+### Interpretation
+- Descriptive mediation dominant  
+- Limited cultural interpretation  
+- Emerging oral competence  
+
+→ Protocol used: [Assessment Protocols](./04_assessment_protocols.md)
+
+---
+
+## 📍 LAR_003 — Multimodal reconstruction task
+
+**LAR_ID:** LAR_003  
+**Task_ID:** T3_Multimodal_02  
+**Sequence_ID:** 3  
+**Context:** classroom + urban reconstruction  
+**Language_level:** A1–A2  
+
+### Input
+- Type: urban visual elements  
+- Medium: image set  
+
+### Output
+- Type: multimodal artefact  
+- Components: text + visual annotation  
+
+### Modalities
+- Text: yes  
+- Image: yes  
+- Audio: no  
+- AR-linked: optional  
+
+### Assessment scores
+- MED: 3  
+- MMI: 4  
+- LTC: 3  
+- OER: 4  
+
+### Interpretation
+- Strong multimodal coherence  
+- High semiotic density  
+- High reusability as OER artefact  
+
+→ Linked to rubric system: [Multimodal Rubrics](./02_rubrics_multimodal.md)
+
+---
+
+## 🧠 Cross-corpus analytical notes
+
+Across artefacts, the corpus shows:
+
+- progression from description → mediation → multimodal reconstruction  
+- increasing multimodal density across sequences  
+- gradual increase in OER reusability  
+- stable A1–A2 linguistic development with growing complexity  
+
+---
+
+## 📦 System role
+
+This module functions as:
+
+- structured learner corpus  
+- assessment evidence base  
+- multimodal discourse dataset  
+- mediation analysis resource  
+- OER validation layer  
+
+It operationalises:
+
+→ [Assessment Framework](./01_assessment_framework.md)  
+→ [Evidence Mapping System](./03_evidence_mapping.md)  
+
 ---
 
 ## 🔁 Navigation
 
-← Back to the OER system overview → [README](../README.md)
+← Back to: [Assessment Protocols](./04_assessment_protocols.md)  
+← Back to: [Multimodal Rubrics](./02_rubrics_multimodal.md)  
+→ Return to module overview: [README](./README.md)
