@@ -2,17 +2,17 @@
 
 ## 🧠 Overview
 
-This document defines the **core assessment framework** for the Urban Linguistic Landscape OER system.
+This document defines the **core conceptual and operational framework** of the assessment system.
 
 It integrates evaluation of:
 
 - linguistic development (A1–A2 CEFR)
 - mediation processes
 - multimodal production
-- AR-mediated learning
+- AR-mediated situated learning
 - Open Educational Resource (OER) quality
 
-Assessment is designed as part of the system architecture, not as an external layer.
+Assessment is embedded in the system architecture and functions as a **data-generating evaluative layer**, not an external grading tool.
 
 ---
 
@@ -21,25 +21,25 @@ Assessment is designed as part of the system architecture, not as an external la
 Assessment follows five principles:
 
 - **Integrated evaluation**: language, mediation, multimodality, and OER quality are assessed jointly  
-- **Process + product orientation**: both learning trajectories and final artefacts are evaluated  
-- **Situated assessment**: evaluation is grounded in urban and contextual learning environments  
+- **Process + product orientation**: both learning trajectories and final artefacts are analysed  
+- **Situated assessment**: evaluation is grounded in urban, contextualised learning environments  
 - **Openness-aware assessment**: outputs are evaluated for reuse, adaptation, and circulation potential  
-- **Research alignment**: assessment generates analyzable data for empirical study  
+- **Research alignment**: assessment generates structured data for empirical analysis  
 
 ---
 
 ## 🧩 Assessment architecture
 
-The system combines three layers:
+The system operates through three interdependent layers:
 
-### 1. Global analytic rubric
-Core evaluation instrument applied to all artefacts.
+### 1. Evaluation instrument layer (what is applied)
+Global analytic rubric used for consistent artefact assessment.
 
-### 2. Dimension-specific criteria
-Focused analytical lenses for research interpretation.
+### 2. Analytical interpretation layer (how meaning is analysed)
+Dimension-specific criteria used for qualitative and research-oriented interpretation.
 
-### 3. Qualitative evidence layer
-Reflective and observational data (teacher + learner).
+### 3. Evidence and data layer (what is produced)
+Triangulated data sources derived from learner activity and observation.
 
 ---
 
@@ -67,9 +67,9 @@ Focus:
 
 ### 2.2 Multimodality
 Focus:
-- integration of modes (text, image, optional audio/video)
-- coherence of semiotic design
-- communicative functionality of multimodal artefacts
+- integration of semiotic modes (text, image, audio/video)
+- coherence of multimodal design
+- communicative effectiveness of hybrid artefacts
 
 ---
 
@@ -92,28 +92,26 @@ Focus:
 
 ---
 
-## 🧠 AR as evaluable layer
+## 🧠 AR as evaluable mediation layer
 
-Augmented Reality is not evaluated technically.
+Augmented Reality is conceptualised as a **situated mediation infrastructure**, integrated into the assessment system.
 
-It is assessed as **situated mediation infrastructure**, in terms of:
+It is evaluated in terms of:
 
 - relevance of spatial anchoring
 - coherence between artefact and location
-- enhancement of situated meaning
-- accessibility of geolocated learning resources
+- enhancement of situated meaning-making
+- accessibility and usability of geolocated outputs
 
 ---
 
-## 📂 Evidence sources
+## 📂 Evidence and data sources
 
-Assessment draws on:
+The assessment system generates and triangulates three types of data:
 
-- learner artefacts
-- teacher observation logs
-- learner reflection notes
-- AR-linked outputs
-- revision cycles
+- **Primary artefacts**: learner multimodal productions  
+- **Process data**: revision cycles, task progression  
+- **Contextual data**: teacher observation, learner reflection, AR interactions  
 
 ---
 
@@ -121,22 +119,22 @@ Assessment draws on:
 
 | Research focus | Assessment lens |
 |---------------|----------------|
-| RQ1 | Task effectiveness in urban context |
+| RQ1 | Effectiveness of urban task design |
 | RQ2 | Quality of mediation processes |
-| RQ3 | Multimodal production competence |
-| RQ4 | OER quality and reusability |
+| RQ3 | Multimodal meaning-making competence |
+| RQ4 | OER quality, reuse potential, and adaptability |
 
 ---
 
 ## 🔁 System role
 
-This module functions as the **evaluation engine** of the system.
+This module functions as the **evaluation engine of the OER ecosystem**.
 
-It transforms learning outputs into:
+It transforms learning activity into:
 
-- pedagogical evidence
-- research data
-- reusable educational resources
+- structured pedagogical evidence
+- analyzable research data
+- reusable educational artefacts
 
 ---
 
