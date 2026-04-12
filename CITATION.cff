@@ -1,15 +1,19 @@
 cff-version: 1.2.0
 title: Urban Linguistic Landscape OER
 message: "If you use this OER, please cite it as below."
-type: software
+type: dataset
 
 authors:
-  - family-names: LIU ZHOU
-    given-names: EMPAR YAHUI
-    affiliation: University of Valencia / ESIC UNIVERSITY (Valencia campus)
+  - family-names: Liu Zhou
+    given-names: Empar Yahui
+    affiliation: University of Valencia / ESIC University (Valencia campus)
 
 version: 1.0.0
 date-released: 2026-04-12
-license: CC-BY 4.0
+license: CC-BY-SA-4.0
 
-url: https://github.com/[user]/[repo]
+url: https://github.com/EmparYahui/urban-oer-chinese
+
+identifiers:
+  - type: doi
+    value: https://doi.org/10.5281/zenodo.19535648
