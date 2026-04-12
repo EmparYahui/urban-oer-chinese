@@ -1,5 +1,7 @@
 # 04 Assessment Template — Urban Linguistic Landscape OER
 
+This is a design template for constructing assessment tasks, not an operational evaluation system.
+
 ## 🧠 Overview
 
 This template provides a **standardized framework** for designing assessments that align with the principles of the **Urban Linguistic Landscape OER**. It is designed to evaluate **learner artefacts** produced within a **task-based, multimodal learning environment**, with a particular focus on **linguistic mediation** and **urban linguistic landscapes**. This tool ensures that evaluations are consistent, transparent, and adaptable across contexts.
