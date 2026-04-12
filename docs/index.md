@@ -22,7 +22,7 @@ Learners engage in observation, mediation, and transformation of real-world ling
 
 This resource is permanently archived and citable:
 
-https://doi.org/10.5281/zenodo.19535648
+[https://doi.org/10.5281/zenodo.19535648](https://doi.org/10.5281/zenodo.19535648)
 
 ---
 
