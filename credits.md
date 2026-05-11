@@ -6,4 +6,4 @@ This research is part of the project funded by the Spanish Ministry of Science, 
 
 ## Financiación
 
-Esta investigación se enmarca en el proyecto del Ministerio de Ciencia, Innovación y Universidades de España (MCIU) por medio de la Agencia Estatal de Investigación, PID2022-139640NB-I00/AEI/10.13039/501100011033/FEDER,UE y del proyecto de investigación para grupos consolidados CIAICO/2023/104 de la Conselleria d'Educació, Cultura, Universitats i Ocupació.
+Esta investigación se enmarca en el proyecto PID2022-139640NB-I00/AEI/10.13039/501100011033/FEDER, UE del Ministerio de Ciencia, Innovación y Universidades de España (MCIU) por medio de la Agencia Estatal de Investigación, y del proyecto de investigación para grupos consolidados CIAICO/2023/104 de la Conselleria d'Educació, Cultura, Universitats i Ocupació de la Generalitat Valenciana.
