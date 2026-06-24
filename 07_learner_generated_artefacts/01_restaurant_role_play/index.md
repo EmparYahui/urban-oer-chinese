@@ -61,7 +61,15 @@ Working collaboratively, students planned, rehearsed, recorded, and subtitled a 
 
 ## Evidence of Learning
 
-[To be completed]
+The artefact illustrates learners’ ability to organise a complete restaurant interaction through a sequence of communicative actions, including self-introduction, table reservation, menu consultation, price inquiry, food ordering, and payment.
+
+Although the linguistic repertoire remains consistent with an A1 level of proficiency, the video demonstrates the learners’ capacity to use Chinese for meaningful communicative purposes within a coherent service encounter. The progression across the eight stills shows how participants linked individual speech acts into an extended interaction rather than producing isolated utterances.
+
+A notable feature of the artefact is the incorporation of subtitles in both Chinese characters (hanzi) and pinyin. These multimodal elements function as comprehension scaffolds that may support access for novice learners while simultaneously increasing the educational value of the resource for potential future users.
+
+The artefact also provides evidence of audience awareness. Rather than creating a task product intended exclusively for assessment, learners produced a multimodal resource designed to be viewed and understood by others. This orientation towards accessibility and comprehensibility is reflected in the inclusion of visual cues, subtitles, and clearly sequenced communicative exchanges.
+
+Taken together, these features suggest the development of communicative, digital, and multimodal competences and illustrate how learner-generated artefacts can serve as educational resources with potential value beyond the immediate classroom context.
 
 ## Reuse Potential
 
