@@ -73,7 +73,17 @@ Taken together, these features suggest the development of communicative, digital
 
 ## Reuse Potential
 
-[To be completed]
+The artefact was analysed as a learner-generated resource with potential educational value beyond its original instructional context. Although actual reuse by third parties was not investigated, several characteristics support its reuse potential.
+
+First, the role-play addresses a highly transferable communicative situation frequently included in introductory Chinese language curricula. Restaurant interactions constitute a common learning objective at beginner levels and can therefore be adapted to different teaching contexts.
+
+Second, the artefact combines oral language, visual representation, and written support through subtitles in both pinyin and Chinese characters. This multimodal design may facilitate comprehension for novice learners and provides multiple points of access to meaning.
+
+Third, the sequence follows a clearly identifiable communicative structure, including greeting, reservation, menu consultation, price enquiry, ordering, and payment. The transparency of this progression may support its use as a model, discussion prompt, observation task, or role-play stimulus.
+
+Finally, the artefact illustrates how learners can act not only as language users but also as creators of educational content. In this sense, its value lies not only in the linguistic interaction it represents but also in its potential to exemplify learner-generated OER practices within task-based and open pedagogical approaches.
+
+For these reasons, the artefact can be considered a resource with reuse potential, while recognising that its actual adoption and reuse by external users would require separate empirical investigation.
 
 ## Related Competences
 
