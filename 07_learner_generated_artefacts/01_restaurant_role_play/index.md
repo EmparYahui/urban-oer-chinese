@@ -27,8 +27,6 @@ Working collaboratively, students planned, rehearsed, recorded, and subtitled a 
 
 ## Visual Sequence
 
-## Visual Sequence
-
 ### Still 1
 
 ![Still 1](images/still_001.jpg)
