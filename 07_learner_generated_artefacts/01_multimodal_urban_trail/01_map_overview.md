@@ -48,5 +48,13 @@ In addition, the maps provide evidence of learner participation in the creation 
 
 ## Reuse Potential
 
-[To be completed]
+The Multimodal Urban Trail was designed as a learner-generated educational resource that can be adapted and repurposed in a variety of language-learning contexts. Although the present study did not investigate the actual reuse of the artefact by external users, several characteristics suggest its potential value as an open educational resource.
+
+First, the map combines geolocated content, photographs, and short language productions that can be easily explored, adapted, or expanded by other learners and educators. The modular structure of the entries allows individual locations, tasks, or routes to be reused independently or incorporated into new learning activities.
+
+Second, the artefact provides authentic examples of beginner-level Chinese language use embedded within meaningful urban contexts. These examples may support activities related to linguistic landscapes, task-based language learning, intercultural awareness, and digital literacies.
+
+Third, the resource illustrates a transferable pedagogical model rather than a context-specific product alone. The procedures used to create the urban trail—including observation, documentation, geolocation, multimodal production, and collaborative curation—can be replicated in different cities, languages, and educational settings.
+
+For these reasons, the urban trail may be considered a resource with reuse potential, adaptability, and pedagogical value. However, future research would be required to examine how such learner-generated artefacts are reused, adapted, or integrated into other teaching and learning contexts.
 
