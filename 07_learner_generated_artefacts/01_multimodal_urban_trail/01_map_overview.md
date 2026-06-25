@@ -14,7 +14,11 @@ The resulting artefact documents how learners connected language use, cultural o
 
 ### Observed Features
 
-[To be completed]
+The first map view illustrates how learners connected Chinese-language production to specific urban locations visited during the Jane’s Walk activities. The geolocated entries combine photographs, route information, and short Chinese texts describing actions and experiences associated with particular places.
+
+Several entries focus on everyday activities such as visiting a museum, using public transport, or eating local food. Rather than presenting decontextualised vocabulary items, the map situates language within meaningful spatial and social contexts. The resulting artefact links linguistic production to concrete experiences, enabling learners to document and interpret the urban environment through the target language.
+
+The map also demonstrates the integration of multiple semiotic resources, including visual, textual, and spatial elements. Meaning is constructed not only through the Chinese texts themselves but also through their relationship with photographs, locations, and movement across the city.
 
 ## Map View 2
 
