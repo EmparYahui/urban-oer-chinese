@@ -38,8 +38,6 @@ From a pedagogical perspective, the map extends beyond the identification of lin
 
 ## Evidence of Learning
 
-## Evidence of Learning
-
 The two map views provide evidence of how learners used Chinese to engage with, interpret, and represent the urban environment through multimodal and location-based productions. The artefacts illustrate the integration of linguistic, spatial, visual, and experiential dimensions within a single digital resource.
 
 Across the mapped entries, learners associated Chinese-language texts with specific locations, activities, and personal experiences. Rather than producing isolated vocabulary items or decontextualised language exercises, participants created geolocated narratives that connected language use to authentic urban encounters. These productions suggest an emerging ability to use the target language as a tool for observation, description, and personal expression within real-world settings.
