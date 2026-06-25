@@ -10,7 +10,7 @@ The resulting artefact documents how learners connected language use, cultural o
 
 ## Map View 1
 
-[Image to be added]
+![Map View 1](images/map_view_001.jpg)
 
 ### Observed Features
 
