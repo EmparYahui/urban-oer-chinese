@@ -39,7 +39,7 @@ Begin with **[`02_Learning_Tasks`](02_learning_tasks/)** for task instructions a
 
 ## 🧠 System architecture
 
-The repository is organised into six interconnected modules plus a theoretical foundation:
+The repository is organised into seven interconnected modules plus a theoretical foundation:
 
 - 00 → Theory and conceptual framework  
 - 01 → Teaching design (pedagogical architecture)  
@@ -75,21 +75,37 @@ G --> H((OER REUSE CYCLE))
 
 ---
 
-## 🔁 System logic
+## 🔁 Open Learning Cycle
 
-The system operates as a **closed pedagogical loop**:
+The instructional model follows an iterative learning cycle in which authentic urban experiences are progressively transformed into learner-generated Open Educational Resources (OERs). Rather than ending with the completion of classroom activities, each cycle produces resources that can be reused, adapted, and extended in new educational contexts.
 
-1. Urban input and observation  
-2. Mediation and interpretation  
-3. Multimodal production  
-4. AR contextualisation  
-5. Evaluation and reflection  
-6. Open release as OER
+```mermaid
+flowchart TD
 
-Each cycle produces artefacts that function simultaneously as:
-- learning outcomes  
-- analytical data  
-- reusable educational resources  
+A[01 Urban Exploration<br>Authentic Context]
+B[02 Task-Based Learning<br>Guided Interaction]
+C[03 Multimodal Production<br>Learner-Generated Artefacts]
+D[04 Augmented Reality<br>Spatial Mediation]
+E[05 Assessment<br>Reflection and Feedback]
+F[06 Open Publication<br>Learner-Generated OERs]
+G[07 Pedagogical Transfer<br>Reuse and Adaptation]
+
+A --> B
+B --> C
+C --> D
+D --> E
+E --> F
+F --> G
+G --> A
+
+G --> H((Continuous<br>OER Cycle))
+```
+
+Each iteration generates learner-produced artefacts that simultaneously function as:
+
+- 🎓 **Learning outcomes**, demonstrating learners' linguistic, digital, and intercultural development.
+- 🔬 **Research data**, supporting the analysis of language learning processes and instructional design.
+- 🌍 **Open Educational Resources**, enabling educators and learners to reuse, adapt, and extend the instructional model in different languages and educational contexts.
 
 ---
 
