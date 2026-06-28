@@ -48,17 +48,18 @@ The repository is organised into six interconnected modules plus a theoretical f
 - 04 → AR guidelines (spatial mediation layer)  
 - 05 → Templates (reusable design scaffolds)  
 - 06 → Examples (learner-generated artefacts)
+- 07 → Use cases (pedagogical transfer)
 
 
 ```mermaid
 flowchart TD
 
-A[01 Teaching Design<br>Pedagogical Principles]
-B[02 Learning Tasks<br>Task-Based Implementation]
-C[03 Assessment System<br>Evaluation Framework]
+A[01 Teaching Design<br>Pedagogical Architecture]
+B[02 Learning Tasks<br>Implementation Layer]
+C[03 Assessment System<br>Evaluation Instruments]
 D[04 AR Guidelines<br>Spatial Mediation Layer]
-E[05 Templates<br>Production Scaffolds]
-F[06 Examples<br>Learner Artefacts Corpus]
+E[05 Templates<br>Reusable Design Scaffolds]
+F[06 Examples<br>Learner-Generated Artefacts]
 G[07 Use Cases<br>Pedagogical Transfer]
 
 A --> B
