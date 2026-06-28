@@ -19,15 +19,6 @@ The system is designed as a **cyclical pedagogical architecture**, where learnin
 
 ---
 
-🎯 Who is this OER for?
-This repository is designed for three user profiles:
-
-🔬 Researchers — Start with 00_Theory and 01_Teaching_Design for the conceptual framework, research design, and analytical rubric.
-👩‍🏫 Teachers — Start with 02_Learning_Tasks and 05_Templates for ready-to-use task designs and reusable scaffolds. See 07_Use_Cases for implementation guidance and pedagogical transfer examples.
-🎓 Students — Start with 02_Learning_Tasks for task instructions and 06_Examples for artefact samples produced by previous learners.
-
----
-
 ## 🧠 System architecture
 
 The repository is organised into six interconnected modules plus a theoretical foundation:
