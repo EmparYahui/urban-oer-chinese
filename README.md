@@ -70,7 +70,7 @@ E --> F
 F --> G
 G --> A
 
-G --> H((OER REUSE CYCLE))
+G --> H((OER<br>Reuse Cycle))
 ```
 
 ---
