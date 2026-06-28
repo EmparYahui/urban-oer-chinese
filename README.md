@@ -19,6 +19,24 @@ The system is designed as a **cyclical pedagogical architecture**, where learnin
 
 ---
 
+## 👥 Who Is This Repository For?
+
+This repository has been designed to support three complementary user profiles, each with different goals and recommended entry points.
+
+### 🔬 Researchers
+
+Begin with **[`00_Theory`](00_theory/)** and **[`01_Teaching_Design`](01_teaching_design/)** to explore the conceptual foundations, instructional model, research methodology, and analytical framework underpinning the project.
+
+### 👩‍🏫 Teachers
+
+Begin with **[`02_Learning_Tasks`](02_learning_tasks/)** and **[`05_Templates`](05_templates/)** for ready-to-use learning activities, adaptable instructional resources, and reusable production scaffolds. Then continue with **[`07_Use_Cases`](07_use_cases/)** to explore implementation guidance, adaptation strategies, and examples of pedagogical transfer across languages, educational levels, and teaching contexts.
+
+### 🎓 Students
+
+Begin with **[`02_Learning_Tasks`](02_learning_tasks/)** for task instructions and learning objectives. Then explore **[`06_Examples`](06_examples/)** to examine authentic learner-produced artefacts and better understand the expected outcomes of each activity.
+
+---
+
 ## 🧠 System architecture
 
 The repository is organised into six interconnected modules plus a theoretical foundation:
