@@ -98,7 +98,7 @@ E --> F
 F --> G
 G --> A
 
-G --> H((Continuous<br>OER Cycle))
+G --> H((Open<br>Learning<br>Cycle))
 ```
 
 Each iteration generates learner-produced artefacts that simultaneously function as:
