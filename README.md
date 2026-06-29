@@ -160,6 +160,7 @@ This project contributes to research in:
 
 ### 🔄 Pedagogical transfer
 → [07 Use Cases](./07_use_cases/)
+
 ---
 
 ## 🔁 Entry principle
