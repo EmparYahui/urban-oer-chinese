@@ -158,8 +158,8 @@ This project contributes to research in:
 ### 📁 Empirical examples
 → [06 Examples](./06_examples/)
 
-### 🌍 Use cases
-→ [07 Use cases](./07_use_cases/)
+### 🔄 Pedagogical transfer
+→ [07 Use Cases](./07_use_cases/)
 ---
 
 ## 🔁 Entry principle
